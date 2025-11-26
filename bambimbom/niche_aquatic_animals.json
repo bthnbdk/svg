@@ -1,0 +1,62 @@
+[
+  {
+    "id": "niche_sloth",
+    "category": "niche_aquatic_animals",
+    "name": "Three-Toed Sloth",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"slothFurGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(180,180,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(130,130,100);stop-opacity:1\" />\n    </radialGradient>\n    <radialGradient id=\"slothFaceGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,220);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,170);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"350\" rx=\"100\" ry=\"120\" fill=\"url(#slothFurGrad)\" stroke=\"#666666\" stroke-width=\"5\" />\n  <circle cx=\"256\" cy=\"300\" r=\"50\" fill=\"url(#slothFaceGrad)\" />\n  <circle cx=\"230\" cy=\"280\" r=\"8\" fill=\"#000000\" />\n  <circle cx=\"282\" cy=\"280\" r=\"8\" fill=\"#000000\" />\n  <path d=\"M 256 200 L 256 100\" stroke=\"#8B4513\" stroke-width=\"10\" stroke-linecap=\"round\" />\n</svg>"
+  },
+  {
+    "id": "niche_wombat",
+    "category": "niche_aquatic_animals",
+    "name": "Wombat",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"wombatFurGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(160,110,80);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(110,60,30);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"350\" rx=\"150\" ry=\"100\" fill=\"url(#wombatFurGrad)\" stroke=\"#6B2D18\" stroke-width=\"5\" />\n  <circle cx=\"150\" cy=\"320\" r=\"40\" fill=\"url(#wombatFurGrad)\" />\n  <circle cx=\"150\" cy=\"320\" r=\"10\" fill=\"#000000\" />\n  <path d=\"M 200 450 L 200 400 M 312 450 L 312 400\" stroke=\"#333333\" stroke-width=\"20\" stroke-linecap=\"round\" />\n</svg>"
+  },
+  {
+    "id": "niche_jellyfish_translucent",
+    "category": "niche_aquatic_animals",
+    "name": "Translucent Jellyfish",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"jellyBellGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(150,200,255,0.7);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(50,100,200,0.5);stop-opacity:1\" />\n    </radialGradient>\n    <linearGradient id=\"tentacleGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,100,200,0.6);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(200,50,150,0.3);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 150 250 C 150 150, 362 150, 362 250 Z\" fill=\"url(#jellyBellGrad)\" stroke=\"#4A86E8\" stroke-width=\"5\" />\n  <path d=\"M 256 250 Q 200 350, 150 450\" stroke=\"url(#tentacleGrad)\" stroke-width=\"8\" fill=\"none\" />\n  <path d=\"M 256 250 Q 312 350, 362 450\" stroke=\"url(#tentacleGrad)\" stroke-width=\"8\" fill=\"none\" />\n</svg>"
+  },
+  {
+    "id": "niche_eel_electric",
+    "category": "niche_aquatic_animals",
+    "name": "Electric Eel",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"eelGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,50);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 100 256 C 200 150, 350 150, 412 256 C 350 350, 200 350, 100 256 Z\" fill=\"url(#eelGrad)\" stroke=\"#9C9C2C\" stroke-width=\"5\" />\n  <path d=\"M 412 256 Q 450 200, 480 256 Q 450 312, 412 256 Z\" fill=\"url(#eelGrad)\" />\n  <circle cx=\"120\" cy=\"256\" r=\"5\" fill=\"#000000\" />\n</svg>"
+  },
+  {
+    "id": "niche_pufferfish",
+    "category": "niche_aquatic_animals",
+    "name": "Pufferfish",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"pufferGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,180,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,130,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"256\" r=\"150\" fill=\"url(#pufferGrad)\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n  <circle cx=\"200\" cy=\"230\" r=\"10\" fill=\"#000000\" />\n  <circle cx=\"312\" cy=\"230\" r=\"10\" fill=\"#000000\" />\n  <path d=\"M 256 106 L 270 126\" stroke=\"#8B4513\" stroke-width=\"3\" />\n  <path d=\"M 150 256 L 170 270\" stroke=\"#8B4513\" stroke-width=\"3\" />\n  <path d=\"M 362 256 L 342 270\" stroke=\"#8B4513\" stroke-width=\"3\" />\n</svg>"
+  },
+  {
+    "id": "niche_armadillo",
+    "category": "niche_aquatic_animals",
+    "name": "Armadillo",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"shellGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(160,110,80);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(110,60,30);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"300\" rx=\"180\" ry=\"100\" fill=\"url(#shellGrad)\" stroke=\"#6B2D18\" stroke-width=\"5\" />\n  <path d=\"M 150 250 L 362 250\" stroke=\"#333333\" stroke-width=\"5\" stroke-dasharray=\"10, 10\" />\n  <path d=\"M 150 300 L 362 300\" stroke=\"#333333\" stroke-width=\"5\" stroke-dasharray=\"10, 10\" />\n  <rect x=\"80\" y=\"280\" width=\"20\" height=\"50\" fill=\"url(#shellGrad)\" />\n</svg>"
+  },
+  {
+    "id": "niche_axolotl",
+    "category": "niche_aquatic_animals",
+    "name": "Axolotl",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"axolotlGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,220);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,170);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 100 256 C 150 150, 400 150, 412 256 C 350 350, 200 350, 100 256 Z\" fill=\"url(#axolotlGrad)\" stroke=\"#9C5C7C\" stroke-width=\"5\" />\n  <circle cx=\"120\" cy=\"256\" r=\"5\" fill=\"#000000\" />\n  <path d=\"M 150 200 L 100 150 M 150 200 L 100 250\" stroke=\"#FF69B4\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "niche_manatee",
+    "category": "niche_aquatic_animals",
+    "name": "Manatee",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"manateeGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(160,180,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(110,130,150);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 100 300 C 150 200, 400 200, 450 300 C 400 350, 150 350, 100 300 Z\" fill=\"url(#manateeGrad)\" stroke=\"#5C7C9C\" stroke-width=\"5\" />\n  <path d=\"M 450 300 L 480 320 L 480 280 Z\" fill=\"url(#manateeGrad)\" />\n  <circle cx=\"120\" cy=\"280\" r=\"5\" fill=\"#000000\" />\n</svg>"
+  },
+  {
+    "id": "niche_sea_otter",
+    "category": "niche_aquatic_animals",
+    "name": "Sea Otter",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"otterGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(139,69,19);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(101,48,15);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 256 400 C 200 300, 312 300, 256 400 Z\" fill=\"url(#otterGrad)\" stroke=\"#6B2D18\" stroke-width=\"5\" />\n  <circle cx=\"256\" cy=\"250\" r=\"80\" fill=\"url(#otterGrad)\" />\n  <circle cx=\"256\" cy=\"250\" r=\"30\" fill=\"#FFFFFF\" />\n  <circle cx=\"246\" cy=\"240\" r=\"5\" fill=\"#000000\" />\n  <circle cx=\"266\" cy=\"240\" r=\"5\" fill=\"#000000\" />\n</svg>"
+  },
+  {
+    "id": "niche_narwhal",
+    "category": "niche_aquatic_animals",
+    "name": "Narwhal",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"narwhalGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(180,200,220);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(130,150,170);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 100 256 C 200 150, 400 150, 450 256 C 400 350, 200 350, 100 256 Z\" fill=\"url(#narwhalGrad)\" stroke=\"#5C7C9C\" stroke-width=\"5\" />\n  <path d=\"M 450 256 L 500 256\" stroke=\"#FFFFFF\" stroke-width=\"10\" stroke-linecap=\"round\" />\n  <circle cx=\"120\" cy=\"256\" r=\"5\" fill=\"#000000\" />\n</svg>"
+  }
+]

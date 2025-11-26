@@ -1,0 +1,62 @@
+[
+  {
+    "id": "interior_living_room_sofa",
+    "category": "household_interior",
+    "name": "Living Room Sofa",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"sofaFabricGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,150,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,100,200);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"cushionShine\" cx=\"40%\" cy=\"30%\" r=\"70%\" fx=\"40%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.4);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"80\" y=\"300\" width=\"352\" height=\"100\" fill=\"url(#sofaFabricGrad)\" rx=\"15\" ry=\"15\" stroke=\"#4A86E8\" stroke-width=\"5\" />\n  <rect x=\"100\" y=\"200\" width=\"50\" height=\"100\" fill=\"url(#sofaFabricGrad)\" rx=\"10\" ry=\"10\" stroke=\"#4A86E8\" stroke-width=\"5\" />\n  <rect x=\"362\" y=\"200\" width=\"50\" height=\"100\" fill=\"url(#sofaFabricGrad)\" rx=\"10\" ry=\"10\" stroke=\"#4A86E8\" stroke-width=\"5\" />\n  <rect x=\"150\" y=\"220\" width=\"212\" height=\"80\" fill=\"url(#sofaFabricGrad)\" rx=\"10\" ry=\"10\" stroke=\"#4A86E8\" stroke-width=\"5\" />\n  <path d=\"M 100 300 L 412 300 L 412 330 L 100 330 Z\" fill=\"url(#cushionShine)\" opacity=\"0.7\" />\n</svg>"
+  },
+  {
+    "id": "interior_window_with_curtains",
+    "category": "household_interior",
+    "name": "Window with Curtains",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"windowGlassGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(200,220,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(150,180,220);stop-opacity:1\" />\n    </linearGradient>\n    <linearGradient id=\"curtainGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,150);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"100\" y=\"100\" width=\"312\" height=\"312\" fill=\"url(#windowGlassGrad)\" stroke=\"#8B4513\" stroke-width=\"10\" />\n  <path d=\"M 100 100 Q 150 200, 100 300 L 100 100 Z\" fill=\"url(#curtainGrad)\" opacity=\"0.8\" />\n  <path d=\"M 412 100 Q 362 200, 412 300 L 412 100 Z\" fill=\"url(#curtainGrad)\" opacity=\"0.8\" />\n  <path d=\"M 256 100 L 256 412\" stroke=\"#8B4513\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "interior_wooden_shelf",
+    "category": "household_interior",
+    "name": "Wooden Wall Shelf",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"shelfWoodGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(180,120,70);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(120,70,30);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"100\" y=\"200\" width=\"312\" height=\"30\" fill=\"url(#shelfWoodGrad)\" rx=\"5\" ry=\"5\" stroke=\"#6B2D18\" stroke-width=\"5\" />\n  <rect x=\"100\" y=\"300\" width=\"312\" height=\"30\" fill=\"url(#shelfWoodGrad)\" rx=\"5\" ry=\"5\" stroke=\"#6B2D18\" stroke-width=\"5\" />\n  <path d=\"M 100 200 L 100 330\" stroke=\"url(#shelfWoodGrad)\" stroke-width=\"10\" stroke-linecap=\"round\" />\n  <path d=\"M 412 200 L 412 330\" stroke=\"url(#shelfWoodGrad)\" stroke-width=\"10\" stroke-linecap=\"round\" />\n</svg>"
+  },
+  {
+    "id": "interior_area_rug",
+    "category": "household_interior",
+    "name": "Area Rug (Oval)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"rugGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,220,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,170,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"400\" rx=\"200\" ry=\"80\" fill=\"url(#rugGrad)\" stroke=\"#9C9C2C\" stroke-width=\"5\" />\n  <ellipse cx=\"256\" cy=\"400\" rx=\"180\" ry=\"60\" fill=\"#FFFFFF\" opacity=\"0.5\" />\n</svg>"
+  },
+  {
+    "id": "interior_wooden_door",
+    "category": "household_interior",
+    "name": "Wooden Interior Door",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"doorWoodGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(160,82,45);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,41,10);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"150\" y=\"50\" width=\"212\" height=\"400\" fill=\"url(#doorWoodGrad)\" stroke=\"#6B2D18\" stroke-width=\"5\" />\n  <circle cx=\"320\" cy=\"256\" r=\"15\" fill=\"#FFD700\" stroke=\"#9C7C2C\" stroke-width=\"3\" />\n</svg>"
+  },
+  {
+    "id": "interior_small_table",
+    "category": "household_interior",
+    "name": "Small Coffee Table",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"tableWoodGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(180,120,70);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(120,70,30);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"200\" rx=\"150\" ry=\"20\" fill=\"url(#tableWoodGrad)\" stroke=\"#6B2D18\" stroke-width=\"5\" />\n  <rect x=\"150\" y=\"200\" width=\"20\" height=\"250\" fill=\"url(#tableWoodGrad)\" rx=\"5\" ry=\"5\" />\n  <rect x=\"342\" y=\"200\" width=\"20\" height=\"250\" fill=\"url(#tableWoodGrad)\" rx=\"5\" ry=\"5\" />\n</svg>"
+  },
+  {
+    "id": "interior_television",
+    "category": "household_interior",
+    "name": "Wall-Mounted Television",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"tvFrameGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(50,50,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(10,10,10);stop-opacity:1\" />\n    </linearGradient>\n    <linearGradient id=\"tvScreenGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,100,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,50,100);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"100\" y=\"150\" width=\"312\" height=\"200\" fill=\"url(#tvFrameGrad)\" rx=\"20\" ry=\"20\" stroke=\"#000000\" stroke-width=\"5\" />\n  <rect x=\"120\" y=\"170\" width=\"272\" height=\"160\" fill=\"url(#tvScreenGrad)\" rx=\"10\" ry=\"10\" />\n  <circle cx=\"380\" cy=\"330\" r=\"5\" fill=\"#FF0000\" />\n</svg>"
+  },
+  {
+    "id": "interior_decorative_plant",
+    "category": "household_interior",
+    "name": "Decorative Potted Plant",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"plantPotGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,150,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,100,50);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"plantLeafGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,150,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 150 400 L 362 400 L 330 300 L 182 300 Z\" fill=\"url(#plantPotGrad)\" stroke=\"#9C5C2C\" stroke-width=\"5\" />\n  <ellipse cx=\"256\" cy=\"300\" rx=\"90\" ry=\"20\" fill=\"#6B2D18\" />\n  <path d=\"M 256 300 Q 200 200, 150 250\" fill=\"url(#plantLeafGrad)\" />\n  <path d=\"M 256 300 Q 312 200, 362 250\" fill=\"url(#plantLeafGrad)\" />\n</svg>"
+  },
+  {
+    "id": "interior_picture_frame",
+    "category": "household_interior",
+    "name": "Wall Picture Frame",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"frameGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,220,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,170,50);stop-opacity:1\" />\n    </linearGradient>\n    <linearGradient id=\"imageGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,200,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,150,200);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"150\" y=\"150\" width=\"212\" height=\"212\" fill=\"url(#frameGrad)\" stroke=\"#9C9C2C\" stroke-width=\"10\" />\n  <rect x=\"165\" y=\"165\" width=\"182\" height=\"182\" fill=\"url(#imageGrad)\" />\n  <path d=\"M 256 150 L 256 100\" stroke=\"#8B4513\" stroke-width=\"3\" />\n</svg>"
+  },
+  {
+    "id": "interior_floor_lamp",
+    "category": "household_interior",
+    "name": "Floor Lamp",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"floorLampShadeGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,150);stop-opacity:1\" />\n    </linearGradient>\n    <linearGradient id=\"floorLampPoleGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,150,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,100,100);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 180 150 L 332 150 L 360 250 L 152 250 Z\" fill=\"url(#floorLampShadeGrad)\" stroke=\"#A0A0A0\" stroke-width=\"5\" />\n  <rect x=\"246\" y=\"250\" width=\"20\" height=\"200\" fill=\"url(#floorLampPoleGrad)\" rx=\"5\" ry=\"5\" stroke=\"#666666\" stroke-width=\"5\" />\n  <ellipse cx=\"256\" cy=\"450\" rx=\"80\" ry=\"20\" fill=\"url(#floorLampPoleGrad)\" />\n</svg>"
+  }
+]
