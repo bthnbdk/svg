@@ -9,7 +9,7 @@ Created: 2025-11-26
 Format: ASCII Tree Structure
 
 ===============================================================================
-                            1. ACADEMY_NUMBERS (10 items)
+                            1. ACADEMY_NUMBERS (10 items) - academy_numbers.json
 ===============================================================================
 academy_numbers
 ├── academy_numbers_0
@@ -24,7 +24,7 @@ academy_numbers
 └── academy_numbers_9
 
 ===============================================================================
-                            2. ALPHABET (26 items)
+                            2. ALPHABET (26 items) - alphabet.json
 ===============================================================================
 alphabet
 ├── alphabet_letter_a
@@ -55,7 +55,7 @@ alphabet
 └── alphabet_letter_z
 
 ===============================================================================
-                            3. BAM (40 items)
+                            3. BAM (40 items) - bam.json
 ===============================================================================
 bam
 ├── bam_head_main
@@ -103,7 +103,7 @@ bam
 └── bam_eyebrow_angry_both
 
 ===============================================================================
-                            4. BASIC_TOOLS (21 items)
+                            4. BASIC_TOOLS (21 items) - basic_tools.json
 ===============================================================================
 basic_tools
 ├── tool_hammer
@@ -129,7 +129,7 @@ basic_tools
 └── tool_screwdriver_flathead
 
 ===============================================================================
-                            5. BIM (40 items)
+                            5. BIM (40 items) - bim.json
 ===============================================================================
 bim
 ├── bim_head_main
@@ -177,7 +177,7 @@ bim
 └── bim_eyebrow_angry_both
 
 ===============================================================================
-                            6. BOM (40 items)
+                            6. BOM (40 items) - bom.json
 ===============================================================================
 bom
 ├── bom_head_main
@@ -225,7 +225,7 @@ bom
 └── bom_eyebrow_angry_both
 
 ===============================================================================
-                            7. CITY (66 items)
+                            7. CITY (66 items) - city.json
 ===============================================================================
 city
 ├── city_modern_skyscraper
@@ -296,7 +296,7 @@ city
 └── city_metro_station
 
 ===============================================================================
-                            8. COLORS (10 items)
+                            8. COLORS (10 items) - colors.json
 ===============================================================================
 colors
 ├── colors_black
@@ -312,7 +312,7 @@ colors
 └── colors_yellow
 
 ===============================================================================
-                            9. DOMESTIC_PETS_AND_FOREST (15 items)
+                            9. DOMESTIC_PETS_AND_FOREST (15 items) - domestic_pets_and_forest.json
 ===============================================================================
 domestic_pets_and_forest
 ├── domestic_pets_and_forest_cat
@@ -332,7 +332,7 @@ domestic_pets_and_forest
 └── domestic_pets_and_forest_wolf
 
 ===============================================================================
-                            10. FARM_AND_AGRICULTURE (33 items)
+                            10. FARM_AND_AGRICULTURE (33 items) - farm_and_agriculture.json
 ===============================================================================
 farm_and_agriculture
 ├── farm_and_agriculture_tractor
@@ -371,7 +371,7 @@ farm_and_agriculture
 └── farm_and_agriculture_wagon
 
 ===============================================================================
-                            11. FARM_AND_AQUATIC_ANIMALS (15 items)
+                            11. FARM_AND_AQUATIC_ANIMALS (15 items) - farm_and_aquatic_animals.json
 ===============================================================================
 farm_and_aquatic_animals
 ├── farm_and_aquatic_animals_duck
@@ -391,7 +391,7 @@ farm_and_aquatic_animals
 └── farm_and_aquatic_animals_river
 
 ===============================================================================
-                            12. FRUITS (9 items)
+                            12. FRUITS (9 items) - fruits.json
 ===============================================================================
 fruits
 ├── fruit_apple_red
@@ -405,7 +405,7 @@ fruits
 └── fruit_mango_whole
 
 ===============================================================================
-                            13. HOUSEHOLD_INTERIOR (10 items) [NEW]
+                            13. HOUSEHOLD_INTERIOR (10 items) [NEW] - household_interior.json
 ===============================================================================
 household_interior
 ├── interior_living_room_sofa
@@ -420,7 +420,7 @@ household_interior
 └── interior_floor_lamp
 
 ===============================================================================
-                            14. HOUSEHOLD_OBJECTS (18 items)
+                            14. HOUSEHOLD_OBJECTS (18 items) - household_objects.json
 ===============================================================================
 household_objects
 ├── house_teddy_bear
@@ -443,7 +443,7 @@ household_objects
 └── house_kite
 
 ===============================================================================
-                            15. JUNGLE_ELEMENTS (25 items)
+                            15. JUNGLE_ELEMENTS (25 items) - jungle_elements.json
 ===============================================================================
 jungle_elements
 ├── jungle_palm_tree_element
@@ -473,7 +473,7 @@ jungle_elements
 └── jungle_python_element
 
 ===============================================================================
-                            16. KITCHEN_AND_TABLEWARE (12 items) [NEW]
+                            16. KITCHEN_AND_TABLEWARE (12 items) [NEW] - kitchen_and_tableware.json
 ===============================================================================
 kitchen_and_tableware
 ├── kitchen_frying_pan
@@ -490,7 +490,7 @@ kitchen_and_tableware
 └── tableware_bowl_cereal
 
 ===============================================================================
-                            17. MUSIC_INSTRUMENTS (58 items)
+                            17. MUSIC_INSTRUMENTS (58 items) - music_instruments.json
 ===============================================================================
 music_instruments
 ├── music_piano_keyboard
@@ -552,7 +552,7 @@ music_instruments
 └── music_metronome
 
 ===============================================================================
-                            18. NATURE (41 items)
+                            18. NATURE (41 items) - nature.json
 ===============================================================================
 nature
 ├── nature_oak_tree
@@ -596,7 +596,7 @@ nature
 └── nature_herbs_bundle
 
 ===============================================================================
-                            19. NICHE_AQUATIC_ANIMALS (12 items) [NEW]
+                            19. NICHE_AQUATIC_ANIMALS (12 items) [NEW] - niche_aquatic_animals.json
 ===============================================================================
 niche_aquatic_animals
 ├── niche_sloth
@@ -613,7 +613,7 @@ niche_aquatic_animals
 └── niche_seal
 
 ===============================================================================
-                            20. OPPOSITES_CONCEPTS (9 items)
+                            20. OPPOSITES_CONCEPTS (9 items) - opposites_concepts.json
 ===============================================================================
 opposites_concepts
 ├── opposites_big_small
@@ -627,7 +627,7 @@ opposites_concepts
 └── opposites_night_day
 
 ===============================================================================
-                            21. SKY (39 items)
+                            21. SKY (39 items) - sky.json
 ===============================================================================
 sky
 ├── sky_shining_sun
@@ -669,7 +669,7 @@ sky
 └── aurora_borealis
 
 ===============================================================================
-                            22. SPACE (38 items)
+                            22. SPACE (38 items) - space.json
 ===============================================================================
 space
 ├── space_gas_giant_planet
@@ -714,7 +714,7 @@ space
 └── space_asteroid_belt
 
 ===============================================================================
-                            23. THINGS_THAT_GO (16 items)
+                            23. THINGS_THAT_GO (16 items) - things_that_go.json
 ===============================================================================
 things_that_go
 ├── things_car_sedan
@@ -735,7 +735,7 @@ things_that_go
 └── things_bulldozer_construction
 
 ===============================================================================
-                            24. UNDERWATER_WORLD (15 items)
+                            24. UNDERWATER_WORLD (15 items) - underwater_world.json
 ===============================================================================
 underwater_world
 ├── underwater_fish_tropical
@@ -755,7 +755,7 @@ underwater_world
 └── underwater_submarine_explorer
 
 ===============================================================================
-                            25. VEGETABLES (82 items)
+                            25. VEGETABLES (82 items) - vegetables.json
 ===============================================================================
 vegetables
 ├── vegetable_broccoli
@@ -839,7 +839,7 @@ vegetables
 └── vegetable_nigella_seed
 
 ===============================================================================
-                            26. WILD_SAVANNA_ANIMALS (15 items)
+                            26. WILD_SAVANNA_ANIMALS (15 items) - wild_savanna_animals.json
 ===============================================================================
 wild_savanna_animals
 ├── wild_savanna_lion_male
@@ -862,7 +862,7 @@ wild_savanna_animals
                                SUMMARY STATISTICS
 ===============================================================================
 Total Categories: 26 JSON files
-Total Individual Assets: 700+ SVG icons
+Total Individual Assets: 704+ SVG icons
 
 Categories by Size (Largest to Smallest):
 1. vegetables: 82 items
@@ -888,9 +888,12 @@ Categories by Size (Largest to Smallest):
 21. household_interior: 10 items [NEW]
 22. kitchen_and_tableware: 12 items [NEW]
 23. niche_aquatic_animals: 12 items [NEW]
-24. bim: 3 items
-25. bom: 1 item
-26. bam: 1 item
+24. bim: 40 items
+25. bom: 40 items
+26. bamboo_asset_url: 1 item
+
+GitHub Repository URL Structure:
+https://raw.githubusercontent.com/bthnbdk/svg/refs/heads/main/bambimbom/[filename].json
 
 File Creation: 2025-11-26
 Format: ASCII Tree Structure
