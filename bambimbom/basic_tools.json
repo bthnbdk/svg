@@ -1,0 +1,76 @@
+That's a useful set of common objects for kids' songs\! As a Senior Technical Artist, I'll generate the full, extended list for the **Basic Tools** category, adhering to the **"Pixar 3D" style** with volumetric, bubbly geometry and detailed gradients for depth and shine.
+
+Here is the requested **`basic_tools.json`** file containing 10 assets:
+
+## 🛠️ `basic_tools.json` (10 Assets)
+
+```json
+[
+  {
+    "id": "tool_hammer",
+    "category": "basic_tools",
+    "name": "Hammer",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"hammerHandleGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(160,82,45);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,41,10);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"hammerHeadGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(180,180,180);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(130,130,130);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"246\" y=\"150\" width=\"20\" height=\"300\" fill=\"url(#hammerHandleGrad)\" rx=\"5\" ry=\"5\" stroke=\"#6B2D18\" stroke-width=\"3\" />\n  <rect x=\"150\" y=\"130\" width=\"212\" height=\"40\" fill=\"url(#hammerHeadGrad)\" rx=\"5\" ry=\"5\" stroke=\"#666666\" stroke-width=\"3\" />\n  <path d=\"M 150 130 C 120 150, 150 170, 150 130 Z\" fill=\"url(#hammerHeadGrad)\" />\n</svg>"
+  },
+  {
+    "id": "tool_screwdriver",
+    "category": "basic_tools",
+    "name": "Screwdriver (Phillips)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"driverHandleGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,150,50);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"driverTipGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,150,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,100,100);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"231\" y=\"100\" width=\"50\" height=\"150\" fill=\"url(#driverHandleGrad)\" rx=\"10\" ry=\"10\" stroke=\"#5C9C5C\" stroke-width=\"3\" />\n  <rect x=\"246\" y=\"250\" width=\"20\" height=\"200\" fill=\"url(#driverTipGrad)\" />\n  <path d=\"M 231 100 Q 256 50, 281 100\" fill=\"url(#driverHandleGrad)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "tool_wrench",
+    "category": "basic_tools",
+    "name": "Wrench",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"wrenchGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,150,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,100,100);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"100\" y=\"200\" width=\"312\" height=\"50\" fill=\"url(#wrenchGrad)\" rx=\"10\" ry=\"10\" stroke=\"#666666\" stroke-width=\"3\" />\n  <rect x=\"100\" y=\"150\" width=\"50\" height=\"50\" fill=\"url(#wrenchGrad)\" stroke=\"#666666\" stroke-width=\"3\" />\n  <rect x=\"362\" y=\"200\" width=\"50\" height=\"50\" fill=\"url(#wrenchGrad)\" stroke=\"#666666\" stroke-width=\"3\" />\n  <path d=\"M 100 225 L 115 200 L 115 250 Z\" fill=\"#FFFFFF\" opacity=\"0.3\" />\n</svg>"
+  },
+  {
+    "id": "tool_saw",
+    "category": "basic_tools",
+    "name": "Hand Saw",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"sawBladeGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(180,180,180);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(130,130,130);stop-opacity:1\" />\n    </linearGradient>\n    <linearGradient id=\"sawHandleGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(160,82,45);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,41,10);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"150\" y=\"300\" width=\"312\" height=\"30\" fill=\"url(#sawBladeGrad)\" stroke=\"#666666\" stroke-width=\"3\" />\n  <path d=\"M 400 300 C 450 250, 450 350, 400 380 L 400 300 Z\" fill=\"url(#sawHandleGrad)\" stroke=\"#6B2D18\" stroke-width=\"3\" />\n  <path d=\"M 150 330 L 462 330\" stroke=\"#000000\" stroke-width=\"5\" stroke-dasharray=\"5, 5\" />\n</svg>"
+  },
+  {
+    "id": "tool_measuring_tape",
+    "category": "basic_tools",
+    "name": "Measuring Tape",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"tapeCaseGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"150\" y=\"150\" width=\"212\" height=\"150\" fill=\"url(#tapeCaseGrad)\" rx=\"20\" ry=\"20\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n  <path d=\"M 362 225 L 450 225\" stroke=\"#FFFFFF\" stroke-width=\"15\" stroke-linecap=\"round\" />\n  <path d=\"M 362 235 L 450 235\" stroke=\"#000000\" stroke-width=\"2\" stroke-linecap=\"round\" />\n  <circle cx=\"350\" cy=\"170\" r=\"15\" fill=\"#666666\" />\n</svg>"
+  },
+  {
+    "id": "tool_toolbox",
+    "category": "basic_tools",
+    "name": "Toolbox (Closed)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"boxToolGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(200,100,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(150,50,50);stop-opacity:1\" />\n    </linearGradient>\n    <linearGradient id=\"boxHandleGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,220,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,170,50);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"100\" y=\"250\" width=\"312\" height=\"150\" fill=\"url(#boxToolGrad)\" rx=\"10\" ry=\"10\" stroke=\"#8B0000\" stroke-width=\"5\" />\n  <rect x=\"231\" y=\"150\" width=\"50\" height=\"100\" fill=\"url(#boxHandleGrad)\" rx=\"5\" ry=\"5\" stroke=\"#9C9C2C\" stroke-width=\"3\" />\n</svg>"
+  },
+  {
+    "id": "tool_paintbrush",
+    "category": "basic_tools",
+    "name": "Paintbrush",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"brushHandleGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(160,82,45);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,41,10);stop-opacity:1\" />\n    </linearGradient>\n    <linearGradient id=\"brushBristleGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(240,240,240);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(190,190,190);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"246\" y=\"100\" width=\"20\" height=\"300\" fill=\"url(#brushHandleGrad)\" rx=\"5\" ry=\"5\" stroke=\"#6B2D18\" stroke-width=\"3\" />\n  <rect x=\"246\" y=\"400\" width=\"20\" height=\"50\" fill=\"url(#brushBristleGrad)\" />\n  <path d=\"M 256 400 Q 240 380, 272 380\" fill=\"#666666\" />\n</svg>"
+  },
+  {
+    "id": "tool_glove_work",
+    "category": "basic_tools",
+    "name": "Work Glove (Single)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"gloveGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,150,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,100,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 200 450 C 150 400, 150 200, 256 150 C 362 200, 362 400, 312 450 Z\" fill=\"url(#gloveGrad)\" stroke=\"#9C5C00\" stroke-width=\"5\" />\n  <path d=\"M 312 400 Q 350 420, 360 450 L 312 450 Z\" fill=\"#FFFFFF\" />\n</svg>"
+  },
+  {
+    "id": "tool_nut_bolt",
+    "category": "basic_tools",
+    "name": "Nut and Bolt",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"metalGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,150,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,100,100);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"240\" y=\"150\" width=\"32\" height=\"200\" fill=\"url(#metalGrad)\" />\n  <polygon points=\"220,350 292,350 310,380 202,380\" fill=\"url(#metalGrad)\" stroke=\"#666666\" stroke-width=\"3\" />\n  <circle cx=\"256\" cy=\"150\" r=\"15\" fill=\"url(#metalGrad)\" stroke=\"#666666\" stroke-width=\"3\" />\n</svg>"
+  },
+  {
+    "id": "tool_pliers",
+    "category": "basic_tools",
+    "name": "Pliers",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"pliersGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,150,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,100,100);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 100 400 L 256 250 L 350 350 L 200 450 Z\" fill=\"url(#pliersGrad)\" stroke=\"#666666\" stroke-width=\"5\" />\n  <path d=\"M 256 250 L 412 100 L 412 200 L 256 300 Z\" fill=\"url(#pliersGrad)\" stroke=\"#666666\" stroke-width=\"5\" />\n  <circle cx=\"256\" cy=\"250\" r=\"15\" fill=\"#FF0000\" />\n</svg>"
+  },
+  {
+    "id": "tool_level",
+    "category": "basic_tools",
+    "name": "Spirit Level",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"levelGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,150,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,100,50);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"100\" y=\"200\" width=\"312\" height=\"50\" fill=\"url(#levelGrad)\" rx=\"10\" ry=\"10\" stroke=\"#5C9C5C\" stroke-width=\"5\" />\n  <rect x=\"231\" y=\"210\" width=\"50\" height=\"30\" fill=\"#FFFFFF\" rx=\"5\" ry=\"5\" />\n  <circle cx=\"246\" cy=\"225\" r=\"5\" fill=\"#FF0000\" />\n</svg>"
+  }
+]
+```

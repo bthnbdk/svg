@@ -1,0 +1,242 @@
+[
+  {
+    "id": "bam_head_main",
+    "category": "character_rabbit_bam",
+    "name": "Head (Base)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"HeadGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </radialGradient>\n    <radialGradient id=\"FaceHighlight\" cx=\"50%\" cy=\"70%\" r=\"40%\" fx=\"50%\" fy=\"70%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,220);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(255,200,150);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"256\" r=\"150\" fill=\"url(#HeadGrad)\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n  <ellipse cx=\"256\" cy=\"280\" rx=\"100\" ry=\"80\" fill=\"url(#FaceHighlight)\" />\n  <circle cx=\"220\" cy=\"240\" r=\"10\" fill=\"#000000\" />\n  <circle cx=\"292\" cy=\"240\" r=\"10\" fill=\"#000000\" />\n  <path d=\"M 256 320 Q 256 340, 276 320\" stroke=\"#8B0000\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" />\n</svg>"
+  },
+  {
+    "id": "bam_ear_left",
+    "category": "character_rabbit_bam",
+    "name": "Ear (Left)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"EarGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </linearGradient>\n    <linearGradient id=\"EarInnerGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,230,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(220,180,150);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 150 400 Q 100 100, 256 50 Q 312 100, 256 400 Z\" fill=\"url(#EarGrad)\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n  <path d=\"M 170 380 Q 150 150, 256 80 Q 280 150, 256 380 Z\" fill=\"url(#EarInnerGrad)\" />\n</svg>"
+  },
+  {
+    "id": "bam_ear_right",
+    "category": "character_rabbit_bam",
+    "name": "Ear (Right)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"EarGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </linearGradient>\n    <linearGradient id=\"EarInnerGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,230,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(220,180,150);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 362 400 Q 412 100, 256 50 Q 200 100, 256 400 Z\" fill=\"url(#EarGrad)\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n  <path d=\"M 342 380 Q 362 150, 256 80 Q 232 150, 256 380 Z\" fill=\"url(#EarInnerGrad)\" />\n</svg>"
+  },
+  {
+    "id": "bam_body",
+    "category": "character_rabbit_bam",
+    "name": "Body/Torso",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"BodyGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"256\" rx=\"150\" ry=\"180\" fill=\"url(#BodyGrad)\" stroke=\"#9C5C00\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "bam_arm_upper_left",
+    "category": "character_rabbit_bam",
+    "name": "Arm (Upper Left)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"ArmGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,0);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"100\" y=\"100\" width=\"50\" height=\"150\" fill=\"url(#ArmGrad)\" rx=\"25\" ry=\"25\" stroke=\"#9C5C00\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "bam_arm_lower_left",
+    "category": "character_rabbit_bam",
+    "name": "Arm (Lower Left)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"ArmGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,0);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"HandHighlight\" cx=\"50%\" cy=\"70%\" r=\"70%\" fx=\"50%\" fy=\"70%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"100\" y=\"100\" width=\"50\" height=\"100\" fill=\"url(#ArmGrad)\" rx=\"25\" ry=\"25\" stroke=\"#9C5C00\" stroke-width=\"5\" />\n  <circle cx=\"125\" cy=\"200\" r=\"30\" fill=\"url(#HandHighlight)\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "bam_arm_upper_right",
+    "category": "character_rabbit_bam",
+    "name": "Arm (Upper Right)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"ArmGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,0);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"362\" y=\"100\" width=\"50\" height=\"150\" fill=\"url(#ArmGrad)\" rx=\"25\" ry=\"25\" stroke=\"#9C5C00\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "bam_arm_lower_right",
+    "category": "character_rabbit_bam",
+    "name": "Arm (Lower Right)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"ArmGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,0);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"HandHighlight\" cx=\"50%\" cy=\"70%\" r=\"70%\" fx=\"50%\" fy=\"70%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"362\" y=\"100\" width=\"50\" height=\"100\" fill=\"url(#ArmGrad)\" rx=\"25\" ry=\"25\" stroke=\"#9C5C00\" stroke-width=\"5\" />\n  <circle cx=\"387\" cy=\"200\" r=\"30\" fill=\"url(#HandHighlight)\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "bam_leg_left_simple",
+    "category": "character_rabbit_bam",
+    "name": "Leg/Foot (Left - Simple)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"LegGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,0);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"FootHighlight\" cx=\"50%\" cy=\"70%\" r=\"70%\" fx=\"50%\" fy=\"70%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"150\" y=\"250\" width=\"80\" height=\"150\" fill=\"url(#LegGrad)\" rx=\"40\" ry=\"40\" stroke=\"#9C5C00\" stroke-width=\"5\" />\n  <ellipse cx=\"190\" cy=\"400\" rx=\"60\" ry=\"30\" fill=\"url(#FootHighlight)\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "bam_leg_right_simple",
+    "category": "character_rabbit_bam",
+    "name": "Leg/Foot (Right - Simple)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"LegGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,0);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"FootHighlight\" cx=\"50%\" cy=\"70%\" r=\"70%\" fx=\"50%\" fy=\"70%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"282\" y=\"250\" width=\"80\" height=\"150\" fill=\"url(#LegGrad)\" rx=\"40\" ry=\"40\" stroke=\"#9C5C00\" stroke-width=\"5\" />\n  <ellipse cx=\"322\" cy=\"400\" rx=\"60\" ry=\"30\" fill=\"url(#FootHighlight)\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "bam_mouth_happy_open",
+    "category": "character_rabbit_bam",
+    "name": "Mouth (Happy/Open for Lip-sync)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"MouthInteriorGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,50,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,0,0);stop-opacity:1\" />\n    </radialGradient>\n    <linearGradient id=\"TongueGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,180,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,130,150);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 200 300 C 220 350, 292 350, 312 300 Z\" fill=\"url(#MouthInteriorGrad)\" stroke=\"#660000\" stroke-width=\"3\" />\n  <path d=\"M 220 320 Q 256 340, 292 320\" fill=\"url(#TongueGrad)\" stroke=\"#9C5C7C\" stroke-width=\"2\" />\n  <rect x=\"246\" y=\"300\" width=\"20\" height=\"30\" fill=\"#FFFFFF\" rx=\"5\" ry=\"5\" />\n</svg>"
+  },
+  {
+    "id": "bam_eye_closed_blink",
+    "category": "character_rabbit_bam",
+    "name": "Eye (Closed/Blink Line)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"BlinkLashGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(50,50,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(10,10,10);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 150 256 Q 256 226, 362 256\" stroke=\"url(#BlinkLashGrad)\" stroke-width=\"10\" fill=\"none\" stroke-linecap=\"round\" />\n</svg>"
+  },
+  {
+    "id": "bam_nose_whiskers",
+    "category": "character_rabbit_bam",
+    "name": "Nose and Whiskers Detail",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"NoseGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,100);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"256\" rx=\"25\" ry=\"15\" fill=\"url(#NoseGrad)\" />\n  <line x1=\"256\" y1=\"266\" x2=\"150\" y2=\"300\" stroke=\"#333333\" stroke-width=\"3\" />\n  <line x1=\"256\" y1=\"266\" x2=\"362\" y2=\"300\" stroke=\"#333333\" stroke-width=\"3\" />\n  <line x1=\"256\" y1=\"266\" x2=\"150\" y2=\"280\" stroke=\"#333333\" stroke-width=\"3\" />\n</svg>"
+  },
+  {
+    "id": "bam_hand_waving",
+    "category": "character_rabbit_bam",
+    "name": "Hand (Waving/Open Pose)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"HandGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </radialGradient>\n    <linearGradient id=\"FingerGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,0);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"350\" r=\"40\" fill=\"url(#HandGrad)\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n  <rect x=\"250\" y=\"250\" width=\"15\" height=\"100\" fill=\"url(#FingerGrad)\" rx=\"5\" ry=\"5\" transform=\"rotate(-15, 256, 300)\" />\n  <rect x=\"270\" y=\"250\" width=\"15\" height=\"100\" fill=\"url(#FingerGrad)\" rx=\"5\" ry=\"5\" transform=\"rotate(15, 256, 300)\" />\n</svg>"
+  },
+  {
+    "id": "bam_foot_tip_toe",
+    "category": "character_rabbit_bam",
+    "name": "Foot (Tip Toe Pose)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"FootGrad\" cx=\"50%\" cy=\"70%\" r=\"70%\" fx=\"50%\" fy=\"70%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </radialGradient>\n    <linearGradient id=\"ToePadGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,180,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,130,150);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 100 400 Q 150 300, 256 350 L 256 450 Z\" fill=\"url(#FootGrad)\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n  <circle cx=\"130\" cy=\"430\" r=\"15\" fill=\"url(#ToePadGrad)\" />\n  <circle cx=\"180\" cy=\"430\" r=\"15\" fill=\"url(#ToePadGrad)\" />\n</svg>"
+  },
+  {
+    "id": "bam_cheek_blush",
+    "category": "character_rabbit_bam",
+    "name": "Cheek Blush (Overlay)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"BlushGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,100,100,0.6);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,100,100,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"150\" cy=\"256\" r=\"40\" fill=\"url(#BlushGrad)\" opacity=\"0.7\" />\n  <circle cx=\"362\" cy=\"256\" r=\"40\" fill=\"url(#BlushGrad)\" opacity=\"0.7\" />\n</svg>"
+  },
+  {
+    "id": "bam_chest_fluff",
+    "category": "character_rabbit_bam",
+    "name": "Chest Fluff Detail (Physics)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"FluffGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,220,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,170,100);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"350\" rx=\"100\" ry=\"80\" fill=\"url(#FluffGrad)\" stroke=\"#9C7C2C\" stroke-width=\"3\" />\n</svg>"
+  },
+  {
+    "id": "bam_tail_fluffy",
+    "category": "character_rabbit_bam",
+    "name": "Tail (Fluffy/Pivot)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"TailGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,200);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"256\" r=\"80\" fill=\"url(#TailGrad)\" stroke=\"#999999\" stroke-width=\"3\" />\n</svg>"
+  },
+  {
+    "id": "bam_leg_upper_left",
+    "category": "character_rabbit_bam",
+    "name": "Upper Leg (Left)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"UpperLegGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,0);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"150\" y=\"200\" width=\"80\" height=\"100\" fill=\"url(#UpperLegGrad)\" rx=\"40\" ry=\"40\" stroke=\"#9C5C00\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "bam_leg_upper_right",
+    "category": "character_rabbit_bam",
+    "name": "Upper Leg (Right)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"UpperLegGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,0);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"282\" y=\"200\" width=\"80\" height=\"100\" fill=\"url(#UpperLegGrad)\" rx=\"40\" ry=\"40\" stroke=\"#9C5C00\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "bam_mouth_surprised",
+    "category": "character_rabbit_bam",
+    "name": "Mouth (Surprised O-Shape)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"MouthInteriorSurprise\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(120,60,60);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(70,10,10);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"300\" r=\"30\" fill=\"url(#MouthInteriorSurprise)\" stroke=\"#660000\" stroke-width=\"3\" />\n</svg>"
+  },
+  {
+    "id": "bam_eye_excited_wide",
+    "category": "character_rabbit_bam",
+    "name": "Eye (Excited/Wide Pupil)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"EyeWhiteExcited\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(240,240,240);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"256\" r=\"40\" fill=\"url(#EyeWhiteExcited)\" stroke=\"#000000\" stroke-width=\"2\" />\n  <circle cx=\"256\" cy=\"256\" r=\"25\" fill=\"#00AEEF\" />\n  <circle cx=\"256\" cy=\"256\" r=\"15\" fill=\"#000000\" />\n  <circle cx=\"246\" cy=\"246\" r=\"5\" fill=\"#FFFFFF\" opacity=\"0.8\" />\n</svg>"
+  },
+  {
+    "id": "bam_hand_pointing",
+    "category": "character_rabbit_bam",
+    "name": "Hand (Pointing Pose)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"HandGradP\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </radialGradient>\n    <linearGradient id=\"FingerGradP\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,0);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"350\" r=\"30\" fill=\"url(#HandGradP)\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n  <rect x=\"248\" y=\"250\" width=\"15\" height=\"100\" fill=\"url(#FingerGradP)\" rx=\"5\" ry=\"5\" />\n</svg>"
+  },
+  {
+    "id": "bam_foot_flat",
+    "category": "character_rabbit_bam",
+    "name": "Foot (Flat on Ground)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"FootGradF\" cx=\"50%\" cy=\"70%\" r=\"70%\" fx=\"50%\" fy=\"70%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"150\" y=\"350\" width=\"150\" height=\"50\" fill=\"url(#FootGradF)\" rx=\"10\" ry=\"10\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n  <path d=\"M 170 350 L 170 380 Q 150 400, 190 400 L 290 400 Q 310 400, 290 380 L 290 350 Z\" fill=\"url(#FootGradF)\" />\n</svg>"
+  },
+  {
+    "id": "bam_mouth_smile_closed",
+    "category": "character_rabbit_bam",
+    "name": "Mouth (Closed Smile Line)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"MouthLineGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(50,50,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(10,10,10);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 200 300 Q 256 350, 312 300\" stroke=\"url(#MouthLineGrad)\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" />\n</svg>"
+  },
+  {
+    "id": "bam_brow_frown_left",
+    "category": "character_rabbit_bam",
+    "name": "Eyebrow (Frown Left)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"BrowGradL\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,50,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,20,0);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <line x1=\"180\" y1=\"200\" x2=\"240\" y2=\"170\" stroke=\"url(#BrowGradL)\" stroke-width=\"15\" stroke-linecap=\"round\" />\n</svg>"
+  },
+  {
+    "id": "bam_brow_frown_right",
+    "category": "character_rabbit_bam",
+    "name": "Eyebrow (Frown Right)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"BrowGradR\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,50,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,20,0);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <line x1=\"332\" y1=\"170\" x2=\"392\" y2=\"200\" stroke=\"url(#BrowGradR)\" stroke-width=\"15\" stroke-linecap=\"round\" />\n</svg>"
+  },
+  {
+    "id": "bam_ear_bent_left",
+    "category": "character_rabbit_bam",
+    "name": "Ear (Bent/Sad Left)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"EarBentGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 150 400 Q 100 100, 256 150 Q 200 100, 100 250 Z\" fill=\"url(#EarBentGrad)\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "bam_ear_bent_right",
+    "category": "character_rabbit_bam",
+    "name": "Ear (Bent/Sad Right)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"EarBentGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 362 400 Q 412 100, 256 150 Q 312 100, 412 250 Z\" fill=\"url(#EarBentGrad)\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "bam_mouth_smile_closed_line",
+    "category": "character_rabbit_bam",
+    "name": "Mouth (Closed Smile Line)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"MouthLineGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(50,50,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(10,10,10);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 200 300 Q 256 350, 312 300\" stroke=\"url(#MouthLineGrad)\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" />\n</svg>"
+  },
+  {
+    "id": "bam_hand_grasp_left",
+    "category": "character_rabbit_bam",
+    "name": "Hand (Grasping Left)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"HandGraspGradL\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"256\" r=\"40\" fill=\"url(#HandGraspGradL)\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n  <path d=\"M 256 216 L 270 200 Q 280 250, 270 300\" fill=\"url(#HandGraspGradL)\" />\n</svg>"
+  },
+  {
+    "id": "bam_hand_grasp_right",
+    "category": "character_rabbit_bam",
+    "name": "Hand (Grasping Right)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"HandGraspGradR\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"256\" r=\"40\" fill=\"url(#HandGraspGradR)\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n  <path d=\"M 256 216 L 242 200 Q 232 250, 242 300\" fill=\"url(#HandGraspGradR)\" />\n</svg>"
+  },
+  {
+    "id": "bam_hand_neutral_left",
+    "category": "character_rabbit_bam",
+    "name": "Hand (Neutral Left)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"HandNeutralGradL\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"256\" rx=\"40\" ry=\"30\" fill=\"url(#HandNeutralGradL)\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "bam_hand_neutral_right",
+    "category": "character_rabbit_bam",
+    "name": "Hand (Neutral Right)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"HandNeutralGradR\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"256\" rx=\"40\" ry=\"30\" fill=\"url(#HandNeutralGradR)\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "bam_leg_lower_left",
+    "category": "character_rabbit_bam",
+    "name": "Lower Leg (Left)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"LowerLegGradL\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,0);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"200\" y=\"100\" width=\"80\" height=\"100\" fill=\"url(#LowerLegGradL)\" rx=\"40\" ry=\"40\" stroke=\"#9C5C00\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "bam_leg_lower_right",
+    "category": "character_rabbit_bam",
+    "name": "Lower Leg (Right)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"LowerLegGradR\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,0);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"200\" y=\"100\" width=\"80\" height=\"100\" fill=\"url(#LowerLegGradR)\" rx=\"40\" ry=\"40\" stroke=\"#9C5C00\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "bam_foot_pivot_left",
+    "category": "character_rabbit_bam",
+    "name": "Foot (Pivot Left)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"FootPivotGradL\" cx=\"50%\" cy=\"70%\" r=\"70%\" fx=\"50%\" fy=\"70%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"256\" rx=\"80\" ry=\"40\" fill=\"url(#FootPivotGradL)\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "bam_foot_pivot_right",
+    "category": "character_rabbit_bam",
+    "name": "Foot (Pivot Right)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"FootPivotGradR\" cx=\"50%\" cy=\"70%\" r=\"70%\" fx=\"50%\" fy=\"70%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"256\" rx=\"80\" ry=\"40\" fill=\"url(#FootPivotGradR)\" stroke=\"#9C7C2C\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "bam_mouth_neutral_closed",
+    "category": "character_rabbit_bam",
+    "name": "Mouth (Neutral Closed Line)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"MouthNeutralLineGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(50,50,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(10,10,10);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 200 300 L 312 300\" stroke=\"url(#MouthNeutralLineGrad)\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" />\n</svg>"
+  },
+  {
+    "id": "bam_mouth_sad_frown",
+    "category": "character_rabbit_bam",
+    "name": "Mouth (Sad Frown)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"MouthFrownGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(50,50,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(10,10,10);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 200 350 Q 256 300, 312 350\" stroke=\"url(#MouthFrownGrad)\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" />\n</svg>"
+  }
+]

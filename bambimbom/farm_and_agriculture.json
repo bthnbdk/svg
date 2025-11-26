@@ -1,0 +1,62 @@
+[
+  {
+    "id": "farm_hay_bale",
+    "category": "farm_and_agriculture",
+    "name": "Hay Bale",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"hayBaleGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(240,200,80);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(180,140,40);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"hayBaleShine\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.7);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"100\" y=\"200\" width=\"312\" height=\"200\" rx=\"30\" ry=\"30\" fill=\"url(#hayBaleGrad)\" stroke=\"#907020\" stroke-width=\"5\" />\n  <rect x=\"110\" y=\"210\" width=\"292\" height=\"180\" rx=\"25\" ry=\"25\" fill=\"url(#hayBaleShine)\" opacity=\"0.4\" />\n  <path d=\"M 100 250 C 150 220, 362 220, 412 250\" stroke=\"#806010\" stroke-width=\"10\" stroke-linecap=\"round\" />\n  <path d=\"M 100 300 C 150 270, 362 270, 412 300\" stroke=\"#806010\" stroke-width=\"10\" stroke-linecap=\"round\" />\n  <path d=\"M 100 350 C 150 320, 362 320, 412 350\" stroke=\"#806010\" stroke-width=\"10\" stroke-linecap=\"round\" />\n</svg>"
+  },
+  {
+    "id": "farm_wooden_fence",
+    "category": "farm_and_agriculture",
+    "name": "Wooden Fence",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"fenceWoodGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(160,82,45);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,41,10);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"fenceShine\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.4);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"100\" y=\"350\" width=\"312\" height=\"50\" rx=\"10\" ry=\"10\" fill=\"url(#fenceWoodGrad)\" stroke=\"#6B2D18\" stroke-width=\"5\" />\n  <rect x=\"100\" y=\"280\" width=\"312\" height=\"50\" rx=\"10\" ry=\"10\" fill=\"url(#fenceWoodGrad)\" stroke=\"#6B2D18\" stroke-width=\"5\" />\n  <path d=\"M 100 350 L 100 400 L 150 400 L 150 350 Z\" fill=\"url(#fenceShine)\" opacity=\"0.6\" />\n  <rect x=\"90\" y=\"250\" width=\"20\" height=\"200\" fill=\"url(#fenceWoodGrad)\" rx=\"5\" ry=\"5\" stroke=\"#6B2D18\" stroke-width=\"5\" />\n  <rect x=\"390\" y=\"250\" width=\"20\" height=\"200\" fill=\"url(#fenceWoodGrad)\" rx=\"5\" ry=\"5\" stroke=\"#6B2D18\" stroke-width=\"5\" />\n</svg>"
+  },
+  {
+    "id": "farm_red_barn",
+    "category": "farm_and_agriculture",
+    "name": "Red Barn",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"barnRedGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(220,50,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(170,0,0);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"barnRoofShine\" cx=\"50%\" cy=\"30%\" r=\"70%\" fx=\"50%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.3);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"100\" y=\"200\" width=\"312\" height=\"250\" fill=\"url(#barnRedGrad)\" stroke=\"#8B0000\" stroke-width=\"5\" />\n  <polygon points=\"100,200 412,200 256,50\" fill=\"url(#barnRedGrad)\" stroke=\"#8B0000\" stroke-width=\"5\" />\n  <path d=\"M 100 200 L 412 200 L 256 50 Z\" fill=\"url(#barnRoofShine)\" opacity=\"0.6\" />\n  <rect x=\"200\" y=\"300\" width=\"112\" height=\"150\" fill=\"#663300\" />\n  <path d=\"M 256 320 L 256 450\" stroke=\"#FFD700\" stroke-width=\"3\" />\n</svg>"
+  },
+  {
+    "id": "farm_tractor",
+    "category": "farm_and_agriculture",
+    "name": "Farm Tractor",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"tractorBodyGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,50);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"tractorTireGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(50,50,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(10,10,10);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"150\" y=\"250\" width=\"212\" height=\"100\" fill=\"url(#tractorBodyGrad)\" rx=\"10\" ry=\"10\" stroke=\"#9C2C2C\" stroke-width=\"5\" />\n  <rect x=\"150\" y=\"200\" width=\"80\" height=\"50\" fill=\"url(#tractorBodyGrad)\" stroke=\"#9C2C2C\" stroke-width=\"5\" />\n  <circle cx=\"350\" cy=\"350\" r=\"50\" fill=\"url(#tractorTireGrad)\" />\n  <circle cx=\"180\" cy=\"350\" r=\"30\" fill=\"url(#tractorTireGrad)\" />\n  <rect x=\"230\" y=\"150\" width=\"12\" height=\"50\" fill=\"#666666\" />\n</svg>"
+  },
+  {
+    "id": "farm_chicken_coop",
+    "category": "farm_and_agriculture",
+    "name": "Chicken Coop",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"coopWoodGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(180,120,70);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(120,70,30);stop-opacity:1\" />\n    </linearGradient>\n    <linearGradient id=\"coopRoofGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,150,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,100,100);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"150\" y=\"300\" width=\"212\" height=\"150\" fill=\"url(#coopWoodGrad)\" stroke=\"#8B4513\" stroke-width=\"5\" />\n  <polygon points=\"150,300 362,300 256,200\" fill=\"url(#coopRoofGrad)\" stroke=\"#8B4513\" stroke-width=\"5\" />\n  <path d=\"M 200 450 L 312 450 L 312 350 L 200 350 Z\" fill=\"#663300\" />\n  <path d=\"M 250 350 L 250 450\" stroke=\"#8B4513\" stroke-width=\"3\" />\n</svg>"
+  },
+  {
+    "id": "farm_corn_stalk",
+    "category": "farm_and_agriculture",
+    "name": "Corn Stalk",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"cornStalkGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,150,50);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"cornCobGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"240\" y=\"150\" width=\"32\" height=\"300\" fill=\"url(#cornStalkGrad)\" rx=\"5\" ry=\"5\" />\n  <ellipse cx=\"256\" cy=\"250\" rx=\"20\" ry=\"50\" fill=\"url(#cornCobGrad)\" />\n  <path d=\"M 272 250 L 350 200 L 300 250 Z\" fill=\"url(#cornStalkGrad)\" />\n</svg>"
+  },
+  {
+    "id": "farm_shovel_tool",
+    "category": "farm_and_agriculture",
+    "name": "Garden Shovel",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"shovelHandleGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(180,120,70);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(120,70,30);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"shovelHeadGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,150,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,100,100);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"246\" y=\"100\" width=\"20\" height=\"300\" fill=\"url(#shovelHandleGrad)\" rx=\"5\" ry=\"5\" />\n  <path d=\"M 226 400 L 286 400 L 256 450 Z\" fill=\"url(#shovelHeadGrad)\" />\n  <circle cx=\"256\" cy=\"100\" r=\"15\" fill=\"url(#shovelHandleGrad)\" />\n</svg>"
+  },
+  {
+    "id": "farm_apple_basket",
+    "category": "farm_and_agriculture",
+    "name": "Apple Picking Basket",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"basketGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(180,120,70);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(120,70,30);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"appleGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 150 400 L 362 400 L 380 250 L 132 250 Z\" fill=\"url(#basketGrad)\" stroke=\"#8B4513\" stroke-width=\"5\" />\n  <path d=\"M 150 250 A 100 20 0 1 0 362 250\" stroke=\"url(#basketGrad)\" stroke-width=\"10\" fill=\"none\" />\n  <circle cx=\"256\" cy=\"230\" r=\"20\" fill=\"url(#appleGrad)\" />\n  <circle cx=\"200\" cy=\"240\" r=\"20\" fill=\"url(#appleGrad)\" />\n  <circle cx=\"312\" cy=\"240\" r=\"20\" fill=\"url(#appleGrad)\" />\n</svg>"
+  },
+  {
+    "id": "farm_pitchfork",
+    "category": "farm_and_agriculture",
+    "name": "Pitchfork",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"forkHandleGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(180,120,70);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(120,70,30);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"forkHeadGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,150,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,100,100);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"246\" y=\"100\" width=\"20\" height=\"300\" fill=\"url(#forkHandleGrad)\" rx=\"5\" ry=\"5\" />\n  <rect x=\"236\" y=\"400\" width=\"10\" height=\"50\" fill=\"url(#forkHeadGrad)\" />\n  <rect x=\"266\" y=\"400\" width=\"10\" height=\"50\" fill=\"url(#forkHeadGrad)\" />\n  <rect x=\"251\" y=\"400\" width=\"10\" height=\"50\" fill=\"url(#forkHeadGrad)\" />\n</svg>"
+  },
+  {
+    "id": "farm_watering_can",
+    "category": "farm_and_agriculture",
+    "name": "Watering Can",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"canMetalGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,200,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,150,100);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 150 400 L 362 400 L 380 300 L 132 300 Z\" fill=\"url(#canMetalGrad)\" stroke=\"#50A050\" stroke-width=\"5\" />\n  <path d=\"M 250 300 Q 350 200, 400 250\" stroke=\"url(#canMetalGrad)\" stroke-width=\"20\" fill=\"none\" />\n  <path d=\"M 180 300 Q 150 250, 200 200\" stroke=\"url(#canMetalGrad)\" stroke-width=\"15\" fill=\"none\" />\n</svg>"
+  }
+]

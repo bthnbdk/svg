@@ -1,0 +1,74 @@
+[
+  {
+    "id": "color_blob_red",
+    "category": "colors",
+    "name": "Red Blob",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"redBlobGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,50);stop-opacity:1\" />\n    </radialGradient>\n    <radialGradient id=\"redBlobShine\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 256 100 C 350 50, 450 150, 400 256 C 450 350, 350 450, 256 400 C 150 450, 50 350, 100 256 C 50 150, 150 50, 256 100 Z\" fill=\"url(#redBlobGrad)\" stroke=\"#9C2C2C\" stroke-width=\"5\" />\n  <circle cx=\"220\" cy=\"180\" r=\"40\" fill=\"url(#redBlobShine)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "color_blob_blue",
+    "category": "colors",
+    "name": "Blue Blob",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"blueBlobGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,100,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,50,200);stop-opacity:1\" />\n    </radialGradient>\n    <radialGradient id=\"blueBlobShine\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 256 100 C 350 50, 450 150, 400 256 C 450 350, 350 450, 256 400 C 150 450, 50 350, 100 256 C 50 150, 150 50, 256 100 Z\" fill=\"url(#blueBlobGrad)\" stroke=\"#2C2C9C\" stroke-width=\"5\" />\n  <circle cx=\"220\" cy=\"180\" r=\"40\" fill=\"url(#blueBlobShine)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "color_blob_green",
+    "category": "colors",
+    "name": "Green Blob",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"greenBlobGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,255,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,200,50);stop-opacity:1\" />\n    </radialGradient>\n    <radialGradient id=\"greenBlobShine\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 256 100 C 350 50, 450 150, 400 256 C 450 350, 350 450, 256 400 C 150 450, 50 350, 100 256 C 50 150, 150 50, 256 100 Z\" fill=\"url(#greenBlobGrad)\" stroke=\"#2C9C2C\" stroke-width=\"5\" />\n  <circle cx=\"220\" cy=\"180\" r=\"40\" fill=\"url(#greenBlobShine)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "color_blob_yellow",
+    "category": "colors",
+    "name": "Yellow Blob",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"yellowBlobGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,50);stop-opacity:1\" />\n    </radialGradient>\n    <radialGradient id=\"yellowBlobShine\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 256 100 C 350 50, 450 150, 400 256 C 450 350, 350 450, 256 400 C 150 450, 50 350, 100 256 C 50 150, 150 50, 256 100 Z\" fill=\"url(#yellowBlobGrad)\" stroke=\"#9C9C2C\" stroke-width=\"5\" />\n  <circle cx=\"220\" cy=\"180\" r=\"40\" fill=\"url(#yellowBlobShine)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "color_blob_orange",
+    "category": "colors",
+    "name": "Orange Blob",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"orangeBlobGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,150,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,100,0);stop-opacity:1\" />\n    </radialGradient>\n    <radialGradient id=\"orangeBlobShine\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 256 100 C 350 50, 450 150, 400 256 C 450 350, 350 450, 256 400 C 150 450, 50 350, 100 256 C 50 150, 150 50, 256 100 Z\" fill=\"url(#orangeBlobGrad)\" stroke=\"#9C5C00\" stroke-width=\"5\" />\n  <circle cx=\"220\" cy=\"180\" r=\"40\" fill=\"url(#orangeBlobShine)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "color_blob_purple",
+    "category": "colors",
+    "name": "Purple Blob",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"purpleBlobGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,100,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,50,200);stop-opacity:1\" />\n    </radialGradient>\n    <radialGradient id=\"purpleBlobShine\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 256 100 C 350 50, 450 150, 400 256 C 450 350, 350 450, 256 400 C 150 450, 50 350, 100 256 C 50 150, 150 50, 256 100 Z\" fill=\"url(#purpleBlobGrad)\" stroke=\"#5C2C9C\" stroke-width=\"5\" />\n  <circle cx=\"220\" cy=\"180\" r=\"40\" fill=\"url(#purpleBlobShine)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "color_blob_pink",
+    "category": "colors",
+    "name": "Pink Blob",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"pinkBlobGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,150);stop-opacity:1\" />\n    </radialGradient>\n    <radialGradient id=\"pinkBlobShine\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 256 100 C 350 50, 450 150, 400 256 C 450 350, 350 450, 256 400 C 150 450, 50 350, 100 256 C 50 150, 150 50, 256 100 Z\" fill=\"url(#pinkBlobGrad)\" stroke=\"#9C2C7C\" stroke-width=\"5\" />\n  <circle cx=\"220\" cy=\"180\" r=\"40\" fill=\"url(#pinkBlobShine)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "color_blob_brown",
+    "category": "colors",
+    "name": "Brown Blob",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"brownBlobGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(160,82,45);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,41,10);stop-opacity:1\" />\n    </radialGradient>\n    <radialGradient id=\"brownBlobShine\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 256 100 C 350 50, 450 150, 400 256 C 450 350, 350 450, 256 400 C 150 450, 50 350, 100 256 C 50 150, 150 50, 256 100 Z\" fill=\"url(#brownBlobGrad)\" stroke=\"#6B2D18\" stroke-width=\"5\" />\n  <circle cx=\"220\" cy=\"180\" r=\"40\" fill=\"url(#brownBlobShine)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "color_blob_grey",
+    "category": "colors",
+    "name": "Grey Blob",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"greyBlobGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(180,180,180);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(130,130,130);stop-opacity:1\" />\n    </radialGradient>\n    <radialGradient id=\"greyBlobShine\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 256 100 C 350 50, 450 150, 400 256 C 450 350, 350 450, 256 400 C 150 450, 50 350, 100 256 C 50 150, 150 50, 256 100 Z\" fill=\"url(#greyBlobGrad)\" stroke=\"#7D7D7D\" stroke-width=\"5\" />\n  <circle cx=\"220\" cy=\"180\" r=\"40\" fill=\"url(#greyBlobShine)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "color_blob_black",
+    "category": "colors",
+    "name": "Black Blob",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"blackBlobGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(80,80,80);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(30,30,30);stop-opacity:1\" />\n    </radialGradient>\n    <radialGradient id=\"blackBlobShine\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 256 100 C 350 50, 450 150, 400 256 C 450 350, 350 450, 256 400 C 150 450, 50 350, 100 256 C 50 150, 150 50, 256 100 Z\" fill=\"url(#blackBlobGrad)\" stroke=\"#000000\" stroke-width=\"5\" />\n  <circle cx=\"220\" cy=\"180\" r=\"40\" fill=\"url(#blackBlobShine)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "color_blob_white",
+    "category": "colors",
+    "name": "White Blob",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"whiteBlobGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,200);stop-opacity:1\" />\n    </radialGradient>\n    <radialGradient id=\"whiteBlobShine\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 256 100 C 350 50, 450 150, 400 256 C 450 350, 350 450, 256 400 C 150 450, 50 350, 100 256 C 50 150, 150 50, 256 100 Z\" fill=\"url(#whiteBlobGrad)\" stroke=\"#A0A0A0\" stroke-width=\"5\" />\n  <circle cx=\"220\" cy=\"180\" r=\"40\" fill=\"url(#whiteBlobShine)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "color_blob_cyan",
+    "category": "colors",
+    "name": "Cyan Blob",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"cyanBlobGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,255,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,200,200);stop-opacity:1\" />\n    </radialGradient>\n    <radialGradient id=\"cyanBlobShine\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 256 100 C 350 50, 450 150, 400 256 C 450 350, 350 450, 256 400 C 150 450, 50 350, 100 256 C 50 150, 150 50, 256 100 Z\" fill=\"url(#cyanBlobGrad)\" stroke=\"#2C9C9C\" stroke-width=\"5\" />\n  <circle cx=\"220\" cy=\"180\" r=\"40\" fill=\"url(#cyanBlobShine)\" opacity=\"0.6\" />\n</svg>"
+  }
+]

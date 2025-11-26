@@ -1,0 +1,62 @@
+[
+  {
+    "id": "farm_aquatic_cow",
+    "category": "farm_and_aquatic_animals",
+    "name": "Dairy Cow (Spotted)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"cowGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(240,240,240);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,200);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"350\" rx=\"150\" ry=\"80\" fill=\"url(#cowGrad)\" />\n  <circle cx=\"350\" cy=\"300\" r=\"30\" fill=\"#333333\" />\n  <circle cx=\"200\" cy=\"300\" r=\"40\" fill=\"url(#cowGrad)\" />\n  <rect x=\"150\" y=\"310\" width=\"30\" height=\"10\" fill=\"#FF69B4\" />\n  <path d=\"M 200 260 L 150 230 L 250 230 Z\" fill=\"url(#cowGrad)\" />\n</svg>"
+  },
+  {
+    "id": "farm_aquatic_pig",
+    "category": "farm_and_aquatic_animals",
+    "name": "Pink Pig",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"pigGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,220);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,180);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"350\" r=\"100\" fill=\"url(#pigGrad)\" />\n  <circle cx=\"180\" cy=\"320\" r=\"40\" fill=\"url(#pigGrad)\" />\n  <circle cx=\"180\" cy=\"320\" r=\"15\" fill=\"#FF69B4\" />\n  <circle cx=\"170\" cy=\"315\" r=\"3\" fill=\"#000000\" />\n  <circle cx=\"190\" cy=\"315\" r=\"3\" fill=\"#000000\" />\n  <path d=\"M 200 280 L 180 250 L 220 250 Z\" fill=\"url(#pigGrad)\" />\n</svg>"
+  },
+  {
+    "id": "farm_aquatic_duck",
+    "category": "farm_and_aquatic_animals",
+    "name": "Yellow Duck",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"duckGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"350\" r=\"80\" fill=\"url(#duckGrad)\" />\n  <circle cx=\"200\" cy=\"300\" r=\"40\" fill=\"url(#duckGrad)\" />\n  <polygon points=\"180,310 150,320 180,330 Z\" fill=\"#FF8C00\" />\n  <circle cx=\"185\" cy=\"295\" r=\"3\" fill=\"#000000\" />\n</svg>"
+  },
+  {
+    "id": "farm_aquatic_chicken",
+    "category": "farm_and_aquatic_animals",
+    "name": "White Chicken",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"chickenGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(240,240,240);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,200);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"350\" r=\"80\" fill=\"url(#chickenGrad)\" />\n  <circle cx=\"200\" cy=\"300\" r=\"40\" fill=\"url(#chickenGrad)\" />\n  <polygon points=\"200,280 180,260 220,260 Z\" fill=\"#FF0000\" />\n  <polygon points=\"180,300 160,320 200,320 Z\" fill=\"#FF8C00\" />\n</svg>"
+  },
+  {
+    "id": "farm_aquatic_sheep",
+    "category": "farm_and_aquatic_animals",
+    "name": "Fluffy Sheep",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"sheepWoolGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,200);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"350\" r=\"100\" fill=\"url(#sheepWoolGrad)\" />\n  <circle cx=\"150\" cy=\"330\" r=\"30\" fill=\"#8B4513\" />\n  <circle cx=\"150\" cy=\"330\" r=\"5\" fill=\"#000000\" />\n</svg>"
+  },
+  {
+    "id": "farm_aquatic_horse",
+    "category": "farm_and_aquatic_animals",
+    "name": "Brown Horse",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"horseGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(160,82,45);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,41,10);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"350\" rx=\"150\" ry=\"80\" fill=\"url(#horseGrad)\" />\n  <path d=\"M 100 350 L 100 200 L 150 200 L 150 350 Z\" fill=\"url(#horseGrad)\" />\n  <circle cx=\"125\" cy=\"200\" r=\"15\" fill=\"url(#horseGrad)\" />\n</svg>"
+  },
+  {
+    "id": "farm_aquatic_penguin",
+    "category": "farm_and_aquatic_animals",
+    "name": "Penguin",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"penguinGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(50,50,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(10,10,10);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"200\" y=\"200\" width=\"112\" height=\"200\" fill=\"url(#penguinGrad)\" rx=\"56\" />\n  <ellipse cx=\"256\" cy=\"300\" rx=\"30\" ry=\"80\" fill=\"#FFFFFF\" />\n  <circle cx=\"256\" cy=\"250\" r=\"10\" fill=\"#000000\" />\n</svg>"
+  },
+  {
+    "id": "farm_aquatic_goldfish",
+    "category": "farm_and_aquatic_animals",
+    "name": "Goldfish",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"goldfishGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,180,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,130,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 100 256 C 150 200, 400 200, 450 256 C 400 312, 150 312, 100 256 Z\" fill=\"url(#goldfishGrad)\" />\n  <path d=\"M 450 256 L 480 236 L 480 276 Z\" fill=\"url(#goldfishGrad)\" />\n  <circle cx=\"120\" cy=\"256\" r=\"5\" fill=\"#000000\" />\n</svg>"
+  },
+  {
+    "id": "farm_aquatic_frog",
+    "category": "farm_and_aquatic_animals",
+    "name": "Green Frog",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"frogGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,150,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"350\" rx=\"100\" ry=\"50\" fill=\"url(#frogGrad)\" />\n  <circle cx=\"200\" cy=\"300\" r=\"20\" fill=\"url(#frogGrad)\" />\n  <circle cx=\"312\" cy=\"300\" r=\"20\" fill=\"url(#frogGrad)\" />\n  <circle cx=\"200\" cy=\"300\" r=\"5\" fill=\"#FFFFFF\" />\n  <circle cx=\"312\" cy=\"300\" r=\"5\" fill=\"#FFFFFF\" />\n</svg>"
+  },
+  {
+    "id": "farm_aquatic_goat",
+    "category": "farm_and_aquatic_animals",
+    "name": "Goat",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"goatGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(220,220,220);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(170,170,170);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"350\" rx=\"150\" ry=\"80\" fill=\"url(#goatGrad)\" />\n  <path d=\"M 100 350 L 150 250 L 200 250 L 250 350 Z\" fill=\"url(#goatGrad)\" />\n  <path d=\"M 120 250 L 120 150\" stroke=\"#8B4513\" stroke-width=\"5\" stroke-linecap=\"round\" />\n  <path d=\"M 170 250 L 170 150\" stroke=\"#8B4513\" stroke-width=\"5\" stroke-linecap=\"round\" />\n</svg>"
+  }
+]

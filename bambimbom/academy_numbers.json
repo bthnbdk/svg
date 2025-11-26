@@ -1,0 +1,44 @@
+[
+  {
+    "id": "academy_number_zero",
+    "category": "academy_numbers",
+    "name": "Number 0",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"bubbly0Grad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,200,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,150,200);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"shine0Grad\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"256\" r=\"150\" fill=\"url(#bubbly0Grad)\" stroke=\"#2C7C9C\" stroke-width=\"5\" />\n  <circle cx=\"256\" cy=\"256\" r=\"100\" fill=\"#FFFFFF\" opacity=\"0.3\" />\n  <path d=\"M 256 106 A 150 150 0 0 1 106 256\" fill=\"url(#shine0Grad)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "academy_number_one",
+    "category": "academy_numbers",
+    "name": "Number 1",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"bubbly1Grad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,50);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"shine1Grad\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"231\" y=\"100\" width=\"50\" height=\"350\" rx=\"20\" ry=\"20\" fill=\"url(#bubbly1Grad)\" stroke=\"#9C2C2C\" stroke-width=\"5\" />\n  <path d=\"M 281 100 L 231 150 L 281 150 Z\" fill=\"url(#bubbly1Grad)\" stroke=\"#9C2C2C\" stroke-width=\"5\" />\n  <path d=\"M 231 100 L 231 450\" fill=\"url(#shine1Grad)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "academy_number_five",
+    "category": "academy_numbers",
+    "name": "Number 5",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"bubbly5Grad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,100,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,50,200);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"shine5Grad\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 350 100 L 150 100 L 150 250 C 150 300, 200 400, 300 400 L 350 400 C 400 400, 400 300, 350 250 Z\" fill=\"url(#bubbly5Grad)\" stroke=\"#5C2C9C\" stroke-width=\"5\" />\n  <path d=\"M 350 100 L 150 100\" fill=\"url(#shine5Grad)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "academy_number_ten",
+    "category": "academy_numbers",
+    "name": "Number 10",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"bubbly10Grad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,255,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,200,100);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"shine10Grad\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"150\" y=\"100\" width=\"50\" height=\"350\" rx=\"20\" ry=\"20\" fill=\"url(#bubbly10Grad)\" stroke=\"#2C9C5C\" stroke-width=\"5\" />\n  <circle cx=\"312\" cy=\"275\" r=\"125\" fill=\"url(#bubbly10Grad)\" stroke=\"#2C9C5C\" stroke-width=\"5\" />\n  <circle cx=\"312\" cy=\"275\" r=\"75\" fill=\"#FFFFFF\" opacity=\"0.3\" />\n  <path d=\"M 150 100 L 150 450\" fill=\"url(#shine10Grad)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "academy_plus_sign",
+    "category": "academy_numbers",
+    "name": "Plus Sign",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"bubblyPlusGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,50);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"shinePlusGrad\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"150\" y=\"231\" width=\"212\" height=\"50\" rx=\"20\" ry=\"20\" fill=\"url(#bubblyPlusGrad)\" stroke=\"#9C9C2C\" stroke-width=\"5\" />\n  <rect x=\"231\" y=\"150\" width=\"50\" height=\"212\" rx=\"20\" ry=\"20\" fill=\"url(#bubblyPlusGrad)\" stroke=\"#9C9C2C\" stroke-width=\"5\" />\n  <path d=\"M 150 231 L 362 231 L 362 281 L 150 281 Z\" fill=\"url(#shinePlusGrad)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "academy_minus_sign",
+    "category": "academy_numbers",
+    "name": "Minus Sign",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"bubblyMinusGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,150,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,100,0);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"shineMinusGrad\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"150\" y=\"231\" width=\"212\" height=\"50\" rx=\"20\" ry=\"20\" fill=\"url(#bubblyMinusGrad)\" stroke=\"#9C5C00\" stroke-width=\"5\" />\n  <path d=\"M 150 231 L 362 231 L 362 281 L 150 281 Z\" fill=\"url(#shineMinusGrad)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "academy_equals_sign",
+    "category": "academy_numbers",
+    "name": "Equals Sign",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"bubblyEqualsGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,200);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"shineEqualsGrad\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"150\" y=\"181\" width=\"212\" height=\"50\" rx=\"20\" ry=\"20\" fill=\"url(#bubblyEqualsGrad)\" stroke=\"#9C2C9C\" stroke-width=\"5\" />\n  <rect x=\"150\" y=\"281\" width=\"212\" height=\"50\" rx=\"20\" ry=\"20\" fill=\"url(#bubblyEqualsGrad)\" stroke=\"#9C2C9C\" stroke-width=\"5\" />\n  <path d=\"M 150 181 L 362 181 L 362 231 L 150 231 Z\" fill=\"url(#shineEqualsGrad)\" opacity=\"0.6\" />\n</svg>"
+  }
+]

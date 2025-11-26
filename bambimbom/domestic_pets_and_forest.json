@@ -1,0 +1,62 @@
+[
+  {
+    "id": "domestic_pets_dog",
+    "category": "domestic_pets_and_forest",
+    "name": "Friendly Dog",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"dogGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(160,82,45);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,41,10);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 100 350 C 150 250, 400 250, 450 350 C 400 400, 150 400, 100 350 Z\" fill=\"url(#dogGrad)\" />\n  <circle cx=\"150\" cy=\"330\" r=\"30\" fill=\"url(#dogGrad)\" />\n  <path d=\"M 130 300 L 170 300 L 150 280 Z\" fill=\"url(#dogGrad)\" />\n  <circle cx=\"140\" cy=\"320\" r=\"5\" fill=\"#000000\" />\n  <circle cx=\"160\" cy=\"320\" r=\"5\" fill=\"#000000\" />\n</svg>"
+  },
+  {
+    "id": "domestic_pets_cat",
+    "category": "domestic_pets_and_forest",
+    "name": "House Cat",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"catGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,150,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,100,100);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 150 350 C 180 250, 380 250, 412 350 C 380 400, 180 400, 150 350 Z\" fill=\"url(#catGrad)\" />\n  <circle cx=\"256\" cy=\"300\" r=\"40\" fill=\"url(#catGrad)\" />\n  <path d=\"M 230 280 L 256 250 L 282 280 Z\" fill=\"url(#catGrad)\" />\n  <path d=\"M 240 290 L 256 270 L 272 290 Z\" fill=\"url(#catGrad)\" />\n  <circle cx=\"240\" cy=\"300\" r=\"3\" fill=\"#000000\" />\n  <circle cx=\"272\" cy=\"300\" r=\"3\" fill=\"#000000\" />\n</svg>"
+  },
+  {
+    "id": "domestic_pets_bear",
+    "category": "domestic_pets_and_forest",
+    "name": "Brown Forest Bear",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"bearGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(139,69,19);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(101,48,15);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"300\" r=\"100\" fill=\"url(#bearGrad)\" />\n  <circle cx=\"200\" cy=\"220\" r=\"20\" fill=\"url(#bearGrad)\" />\n  <circle cx=\"312\" cy=\"220\" r=\"20\" fill=\"url(#bearGrad)\" />\n  <circle cx=\"256\" cy=\"300\" r=\"30\" fill=\"#333333\" />\n</svg>"
+  },
+  {
+    "id": "domestic_pets_rabbit",
+    "category": "domestic_pets_and_forest",
+    "name": "Pet Rabbit",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"rabbitGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(240,240,240);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,200);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"350\" r=\"80\" fill=\"url(#rabbitGrad)\" />\n  <path d=\"M 256 270 L 256 100\" stroke=\"url(#rabbitGrad)\" stroke-width=\"10\" stroke-linecap=\"round\" />\n  <path d=\"M 256 270 L 300 100\" stroke=\"url(#rabbitGrad)\" stroke-width=\"10\" stroke-linecap=\"round\" />\n  <circle cx=\"240\" cy=\"340\" r=\"3\" fill=\"#000000\" />\n  <circle cx=\"272\" cy=\"340\" r=\"3\" fill=\"#000000\" />\n</svg>"
+  },
+  {
+    "id": "domestic_pets_fox",
+    "category": "domestic_pets_and_forest",
+    "name": "Forest Fox",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"foxGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 150 350 C 200 250, 400 250, 412 350 C 380 400, 180 400, 150 350 Z\" fill=\"url(#foxGrad)\" />\n  <circle cx=\"190\" cy=\"320\" r=\"20\" fill=\"url(#foxGrad)\" />\n  <path d=\"M 170 300 L 210 300 L 190 280 Z\" fill=\"url(#foxGrad)\" />\n  <path d=\"M 380 350 L 412 300 L 412 400 Z\" fill=\"url(#foxGrad)\" />\n</svg>"
+  },
+  {
+    "id": "domestic_pets_squirrel",
+    "category": "domestic_pets_and_forest",
+    "name": "Forest Squirrel",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"squirrelGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(180,100,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(130,50,10);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"350\" r=\"50\" fill=\"url(#squirrelGrad)\" />\n  <circle cx=\"256\" cy=\"280\" r=\"40\" fill=\"url(#squirrelGrad)\" />\n  <path d=\"M 300 250 Q 350 200, 300 400\" stroke=\"url(#squirrelGrad)\" stroke-width=\"10\" fill=\"none\" />\n</svg>"
+  },
+  {
+    "id": "domestic_pets_hamster",
+    "category": "domestic_pets_and_forest",
+    "name": "Pet Hamster",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"hamsterGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,220,180);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,170,140);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"350\" r=\"60\" fill=\"url(#hamsterGrad)\" />\n  <circle cx=\"256\" cy=\"280\" r=\"40\" fill=\"url(#hamsterGrad)\" />\n  <circle cx=\"246\" cy=\"270\" r=\"3\" fill=\"#000000\" />\n  <circle cx=\"266\" cy=\"270\" r=\"3\" fill=\"#000000\" />\n  <circle cx=\"256\" cy=\"290\" r=\"5\" fill=\"#FF69B4\" />\n</svg>"
+  },
+  {
+    "id": "domestic_pets_owl",
+    "category": "domestic_pets_and_forest",
+    "name": "Forest Owl",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"owlGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(180,180,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(130,130,100);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"300\" r=\"80\" fill=\"url(#owlGrad)\" />\n  <circle cx=\"230\" cy=\"280\" r=\"15\" fill=\"white\" />\n  <circle cx=\"282\" cy=\"280\" r=\"15\" fill=\"white\" />\n  <circle cx=\"230\" cy=\"280\" r=\"5\" fill=\"#000000\" />\n  <circle cx=\"282\" cy=\"280\" r=\"5\" fill=\"#000000\" />\n  <polygon points=\"256,300 240,320 272,320 Z\" fill=\"#FFD700\" />\n</svg>"
+  },
+  {
+    "id": "domestic_pets_skunk",
+    "category": "domestic_pets_and_forest",
+    "name": "Skunk",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"skunkGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(50,50,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(10,10,10);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 150 350 C 180 250, 380 250, 412 350 C 380 400, 180 400, 150 350 Z\" fill=\"url(#skunkGrad)\" />\n  <path d=\"M 256 250 L 256 400\" stroke=\"#FFFFFF\" stroke-width=\"10\" stroke-linecap=\"round\" />\n  <circle cx=\"256\" cy=\"300\" r=\"30\" fill=\"url(#skunkGrad)\" />\n</svg>"
+  },
+  {
+    "id": "domestic_pets_snake",
+    "category": "domestic_pets_and_forest",
+    "name": "Coiled Snake",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"snakeGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,150,50);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 200 400 A 100 100 0 1 0 312 400\" stroke=\"url(#snakeGrad)\" stroke-width=\"20\" fill=\"none\" />\n  <path d=\"M 312 400 C 350 350, 300 250, 256 200\" stroke=\"url(#snakeGrad)\" stroke-width=\"20\" fill=\"none\" />\n  <circle cx=\"256\" cy=\"200\" r=\"10\" fill=\"url(#snakeGrad)\" />\n  <circle cx=\"252\" cy=\"198\" r=\"2\" fill=\"#000000\" />\n</svg>"
+  }
+]

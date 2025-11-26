@@ -1,0 +1,62 @@
+[
+  {
+    "id": "concept_hot_sun",
+    "category": "opposites_concepts",
+    "name": "Hot (Stylized Sun)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"hotSunGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(255,150,0);stop-opacity:1\" />\n    </radialGradient>\n    <linearGradient id=\"sunRayGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,180,0);stop-opacity:0.8\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(255,100,0);stop-opacity:0.5\" />\n    </linearGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"256\" r=\"120\" fill=\"url(#hotSunGrad)\" />\n  <path d=\"M 256 50 L 286 180 L 226 180 Z\" fill=\"url(#sunRayGrad)\" />\n  <path d=\"M 462 256 L 332 286 L 332 226 Z\" fill=\"url(#sunRayGrad)\" />\n</svg>"
+  },
+  {
+    "id": "concept_cold_iceberg",
+    "category": "opposites_concepts",
+    "name": "Cold (Stylized Iceberg)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"iceGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,200,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,150,200);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"iceShine\" cx=\"30%\" cy=\"30%\" r=\"70%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgba(255,255,255,0.8);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgba(255,255,255,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <polygon points=\"100,450 412,450 350,200 162,200 Z\" fill=\"url(#iceGrad)\" stroke=\"#5C7C9C\" stroke-width=\"5\" />\n  <polygon points=\"350,200 400,250 350,450 162,450 162,200 Z\" fill=\"url(#iceShine)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "concept_day_sun_sky",
+    "category": "opposites_concepts",
+    "name": "Day (Bright Sky)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"dayGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(255,200,0);stop-opacity:1\" />\n    </radialGradient>\n    <radialGradient id=\"cloudGrad\" cx=\"60%\" cy=\"40%\" r=\"80%\" fx=\"60%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,220);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"150\" cy=\"150\" r=\"80\" fill=\"url(#dayGrad)\" />\n  <path d=\"M 200 300 C 150 300, 150 200, 250 200 C 350 150, 450 150, 450 250 C 450 350, 350 350, 350 300 C 300 350, 200 350, 200 300 Z\" fill=\"url(#cloudGrad)\" />\n</svg>"
+  },
+  {
+    "id": "concept_night_moon_stars",
+    "category": "opposites_concepts",
+    "name": "Night (Dark Sky)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"nightMoonGrad\" cx=\"60%\" cy=\"40%\" r=\"70%\" fx=\"60%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(200,200,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(150,150,150);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 150 256 A 150 150 0 1 0 350 256 A 120 120 0 1 1 150 256 Z\" fill=\"url(#nightMoonGrad)\" />\n  <polygon points=\"400,100 410,120 430,120 415,135 420,155 400,140 380,155 385,135 370,120 390,120\" fill=\"#FFD700\" />\n  <circle cx=\"100\" cy=\"400\" r=\"10\" fill=\"#FFFFFF\" />\n</svg>"
+  },
+  {
+    "id": "concept_happy_face",
+    "category": "opposites_concepts",
+    "name": "Happy Face",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"happyGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"256\" r=\"150\" fill=\"url(#happyGrad)\" stroke=\"#9C9C2C\" stroke-width=\"5\" />\n  <circle cx=\"200\" cy=\"220\" r=\"15\" fill=\"#000000\" />\n  <circle cx=\"312\" cy=\"220\" r=\"15\" fill=\"#000000\" />\n  <path d=\"M 200 320 Q 256 380, 312 320\" stroke=\"#8B0000\" stroke-width=\"10\" fill=\"none\" stroke-linecap=\"round\" />\n</svg>"
+  },
+  {
+    "id": "concept_sad_face",
+    "category": "opposites_concepts",
+    "name": "Sad Face",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"sadGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,100);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"256\" r=\"150\" fill=\"url(#sadGrad)\" stroke=\"#9C7C5C\" stroke-width=\"5\" />\n  <circle cx=\"200\" cy=\"220\" r=\"15\" fill=\"#000000\" />\n  <circle cx=\"312\" cy=\"220\" r=\"15\" fill=\"#000000\" />\n  <path d=\"M 200 350 Q 256 300, 312 350\" stroke=\"#0000FF\" stroke-width=\"10\" fill=\"none\" stroke-linecap=\"round\" />\n</svg>"
+  },
+  {
+    "id": "concept_wet_water_splash",
+    "category": "opposites_concepts",
+    "name": "Wet Splash",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"splashGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,200,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,150,200);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 256 100 C 350 150, 400 256, 350 350 C 300 400, 200 400, 150 350 C 100 256, 150 150, 256 100 Z\" fill=\"url(#splashGrad)\" stroke=\"#5C7C9C\" stroke-width=\"5\" />\n  <circle cx=\"256\" cy=\"256\" r=\"10\" fill=\"#FFFFFF\" opacity=\"0.8\" />\n</svg>"
+  },
+  {
+    "id": "concept_dry_desert_sand",
+    "category": "opposites_concepts",
+    "name": "Dry Sand Pile",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"sandGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,220,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,170,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 100 450 Q 256 300, 412 450 Z\" fill=\"url(#sandGrad)\" stroke=\"#9C9C2C\" stroke-width=\"5\" />\n  <path d=\"M 150 400 Q 256 350, 362 400 Z\" fill=\"#FFD700\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "concept_clean_sparkle",
+    "category": "opposites_concepts",
+    "name": "Clean Sparkle",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"sparkleGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,255);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <polygon points=\"256,100 300,200 400,256 300,312 256,412 212,312 112,256 212,200\" fill=\"url(#sparkleGrad)\" stroke=\"#A0A0A0\" stroke-width=\"5\" />\n  <circle cx=\"256\" cy=\"256\" r=\"20\" fill=\"#FFD700\" />\n</svg>"
+  },
+  {
+    "id": "concept_dirty_mud_stain",
+    "category": "opposites_concepts",
+    "name": "Dirty Mud Stain",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"mudGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,70,40);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,30,10);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 100 256 C 150 150, 350 150, 412 256 C 350 350, 150 350, 100 256 Z\" fill=\"url(#mudGrad)\" stroke=\"#6B2D18\" stroke-width=\"5\" />\n  <circle cx=\"350\" cy=\"200\" r=\"30\" fill=\"url(#mudGrad)\" />\n  <circle cx=\"200\" cy=\"300\" r=\"20\" fill=\"url(#mudGrad)\" />\n</svg>"
+  }
+]

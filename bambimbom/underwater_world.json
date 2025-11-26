@@ -1,0 +1,218 @@
+[
+  {
+    "id": "underwater_clownfish",
+    "category": "underwater_world",
+    "name": "Clownfish (Nemo)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"clownFishGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,180,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,100,0);stop-opacity:1\" />\n    </radialGradient>\n    <linearGradient id=\"stripeGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,200);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 100 256 C 150 150, 400 150, 450 256 C 400 350, 150 350, 100 256 Z\" fill=\"url(#clownFishGrad)\" />\n  <path d=\"M 160 200 L 190 200 L 190 312 L 160 312 Z\" fill=\"url(#stripeGrad)\" />\n  <path d=\"M 260 200 L 290 200 L 290 312 L 260 312 Z\" fill=\"url(#stripeGrad)\" />\n  <circle cx=\"420\" cy=\"256\" r=\"5\" fill=\"#000000\" />\n</svg>"
+  },
+  {
+    "id": "underwater_red_crab",
+    "category": "underwater_world",
+    "name": "Red Crab",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"crabGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,0,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"350\" rx=\"100\" ry=\"50\" fill=\"url(#crabGrad)\" />\n  <rect x=\"156\" y=\"330\" width=\"10\" height=\"50\" fill=\"url(#crabGrad)\" transform=\"rotate(-30, 161, 355)\" />\n  <rect x=\"346\" y=\"330\" width=\"10\" height=\"50\" fill=\"url(#crabGrad)\" transform=\"rotate(30, 351, 355)\" />\n  <path d=\"M 100 300 L 150 250 L 150 300 Z\" fill=\"url(#crabGrad)\" />\n  <path d=\"M 412 300 L 362 250 L 362 300 Z\" fill=\"url(#crabGrad)\" />\n</svg>"
+  },
+  {
+    "id": "underwater_blue_whale",
+    "category": "underwater_world",
+    "name": "Blue Whale",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"whaleGrad\" cx=\"40%\" cy=\"60%\" r=\"70%\" fx=\"40%\" fy=\"60%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,200,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,100,200);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"300\" rx=\"180\" ry=\"80\" fill=\"url(#whaleGrad)\" />\n  <path d=\"M 436 300 L 480 250 L 436 350 Z\" fill=\"url(#whaleGrad)\" />\n  <circle cx=\"100\" cy=\"280\" r=\"10\" fill=\"#000000\" />\n</svg>"
+  },
+  {
+    "id": "underwater_great_shark",
+    "category": "underwater_world",
+    "name": "Great White Shark",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"sharkGrad\" cx=\"50%\" cy=\"50%\" r=\"70%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(180,180,180);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,100,100);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 100 300 C 150 200, 400 200, 450 300 C 400 350, 150 350, 100 300 Z\" fill=\"url(#sharkGrad)\" />\n  <path d=\"M 450 300 L 480 250 L 480 350 Z\" fill=\"url(#sharkGrad)\" />\n  <polygon points=\"256,200 206,300 306,300\" fill=\"url(#sharkGrad)\" />\n  <path d=\"M 100 300 Q 256 330, 450 300\" stroke=\"white\" stroke-width=\"2\" fill=\"none\" />\n</svg>"
+  },
+  {
+    "id": "underwater_red_starfish",
+    "category": "underwater_world",
+    "name": "Red Starfish",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"starfishGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,0,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <polygon points=\"256,100 290,200 400,220 310,270 330,370 256,320 182,370 202,270 112,220 222,200\" fill=\"url(#starfishGrad)\" />\n</svg>"
+  },
+  {
+    "id": "underwater_brain_coral",
+    "category": "underwater_world",
+    "name": "Brain Coral",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"coralGrad\" cx=\"40%\" cy=\"40%\" r=\"70%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,150,100);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"350\" r=\"100\" fill=\"url(#coralGrad)\" />\n  <path d=\"M 200 320 Q 256 300, 312 320\" stroke=\"#8B4513\" stroke-width=\"5\" fill=\"none\" />\n  <path d=\"M 200 350 Q 256 330, 312 350\" stroke=\"#8B4513\" stroke-width=\"5\" fill=\"none\" />\n</svg>"
+  },
+  {
+    "id": "underwater_air_bubble",
+    "category": "underwater_world",
+    "name": "Air Bubble",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"bubbleGrad\" cx=\"30%\" cy=\"30%\" r=\"100%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:0.8\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,150,220);stop-opacity:0.2\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"256\" r=\"50\" fill=\"url(#bubbleGrad)\" stroke=\"rgb(150,200,255)\" stroke-width=\"2\" />\n  <circle cx=\"270\" cy=\"240\" r=\"5\" fill=\"white\" opacity=\"0.8\" />\n</svg>"
+  },
+  {
+    "id": "underwater_yellow_submarine",
+    "category": "underwater_world",
+    "name": "Yellow Submarine",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"subGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,50);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"100\" y=\"300\" width=\"312\" height=\"80\" fill=\"url(#subGrad)\" rx=\"40\" />\n  <rect x=\"240\" y=\"260\" width=\"32\" height=\"40\" fill=\"url(#subGrad)\" />\n  <circle cx=\"380\" cy=\"340\" r=\"15\" fill=\"#666666\" />\n  <circle cx=\"130\" cy=\"340\" r=\"15\" fill=\"#666666\" />\n  <circle cx=\"256\" cy=\"340\" r=\"20\" fill=\"#87CEFA\" />\n</svg>"
+  },
+  {
+    "id": "underwater_purple_jellyfish",
+    "category": "underwater_world",
+    "name": "Purple Jellyfish",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"jellyGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(200,150,255);stop-opacity:0.9\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(150,50,200);stop-opacity:0.9\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 200 300 C 200 200, 312 200, 312 300 Z\" fill=\"url(#jellyGrad)\" />\n  <path d=\"M 220 300 L 220 400\" stroke=\"url(#jellyGrad)\" stroke-width=\"5\" stroke-linecap=\"round\" />\n  <path d=\"M 256 300 L 256 420\" stroke=\"url(#jellyGrad)\" stroke-width=\"5\" stroke-linecap=\"round\" />\n  <path d=\"M 292 300 L 292 380\" stroke=\"url(#jellyGrad)\" stroke-width=\"5\" stroke-linecap=\"round\" />\n</svg>"
+  },
+  {
+    "id": "underwater_seashell",
+    "category": "underwater_world",
+    "name": "Spiral Seashell",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"shellGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,220,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,170,150);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 350 400 C 250 450, 200 300, 350 150 Q 250 200, 350 400 Z\" fill=\"url(#shellGrad)\" />\n  <path d=\"M 350 400 Q 300 350, 350 150\" stroke=\"#8B4513\" stroke-width=\"5\" fill=\"none\" />\n</svg>"
+  },
+  {
+    "id": "underwater_sea_turtle",
+    "category": "underwater_world",
+    "name": "Sea Turtle",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"shellTurtleGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,100,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,50,20);stop-opacity:1\" />\n    </radialGradient>\n    <radialGradient id=\"turtleBodyGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,150,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"280\" r=\"80\" fill=\"url(#shellTurtleGrad)\" />\n  <ellipse cx=\"360\" cy=\"280\" rx=\"50\" ry=\"30\" fill=\"url(#turtleBodyGrad)\" />\n  <path d=\"M 180 280 L 100 250 L 100 310 Z\" fill=\"url(#turtleBodyGrad)\" />\n</svg>"
+  },
+  {
+    "id": "underwater_octopus",
+    "category": "underwater_world",
+    "name": "Friendly Octopus",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"octopusGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,150,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,100,200);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"250\" r=\"100\" fill=\"url(#octopusGrad)\" />\n  <ellipse cx=\"256\" cy=\"270\" rx=\"10\" ry=\"5\" fill=\"#000000\" />\n  <path d=\"M 200 350 C 150 400, 300 400, 312 350 Z\" fill=\"url(#octopusGrad)\" />\n</svg>"
+  },
+  {
+    "id": "underwater_sea_anemone",
+    "category": "underwater_world",
+    "name": "Sea Anemone",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"anemoneGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,200,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,100,200);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"450\" r=\"50\" fill=\"#8B4513\" />\n  <path d=\"M 256 450 L 256 300 C 280 350, 230 350, 256 300 Z\" fill=\"url(#anemoneGrad)\" />\n  <path d=\"M 256 450 L 280 320 C 300 370, 250 370, 280 320 Z\" fill=\"url(#anemoneGrad)\" />\n  <path d=\"M 256 450 L 230 320 C 200 370, 250 370, 230 320 Z\" fill=\"url(#anemoneGrad)\" />\n</svg>"
+  },
+  {
+    "id": "underwater_seaweed",
+    "category": "underwater_world",
+    "name": "Wavy Seaweed",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"seaweedGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(50,150,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(20,80,20);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 200 450 C 250 350, 150 250, 200 150 L 210 150 C 160 250, 260 350, 210 450 Z\" fill=\"url(#seaweedGrad)\" />\n  <path d=\"M 250 450 C 300 350, 200 250, 250 150 L 260 150 C 210 250, 310 350, 260 450 Z\" fill=\"url(#seaweedGrad)\" />\n</svg>"
+  },
+  {
+    "id": "underwater_treasure_chest",
+    "category": "underwater_world",
+    "name": "Sunken Treasure Chest",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"chestGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(160,82,45);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,41,10);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"coinGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,220,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,170,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"150\" y=\"300\" width=\"212\" height=\"100\" fill=\"url(#chestGrad)\" />\n  <path d=\"M 150 300 L 362 300 L 362 250 C 362 200, 150 200, 150 250 Z\" fill=\"url(#chestGrad)\" />\n  <circle cx=\"256\" cy=\"300\" r=\"5\" fill=\"#FFD700\" />\n  <circle cx=\"280\" cy=\"280\" r=\"8\" fill=\"url(#coinGrad)\" />\n</svg>"
+  },
+  {
+    "id": "underwater_scuba_diver",
+    "category": "underwater_world",
+    "name": "Scuba Diver",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"maskGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,200,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,100,200);stop-opacity:1\" />\n    </radialGradient>\n    <linearGradient id=\"suitDiverGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(50,50,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(10,10,10);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"200\" r=\"25\" fill=\"url(#suitDiverGrad)\" />\n  <rect x=\"240\" y=\"225\" width=\"32\" height=\"100\" fill=\"url(#suitDiverGrad)\" />\n  <rect x=\"230\" y=\"190\" width=\"52\" height=\"10\" fill=\"#FFD700\" />\n  <rect x=\"250\" y=\"195\" width=\"12\" height=\"10\" fill=\"url(#maskGrad)\" />\n</svg>"
+  },
+  {
+    "id": "underwater_blue_tang_fish",
+    "category": "underwater_world",
+    "name": "Blue Tang Fish (Dory)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"blueTangGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,150,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,100,200);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 100 256 C 150 180, 400 180, 450 256 C 400 330, 150 330, 100 256 Z\" fill=\"url(#blueTangGrad)\" />\n  <path d=\"M 450 256 L 480 236 L 480 276 Z\" fill=\"#000000\" />\n  <circle cx=\"120\" cy=\"256\" r=\"5\" fill=\"#000000\" />\n</svg>"
+  },
+  {
+    "id": "underwater_coral_reef_arch",
+    "category": "underwater_world",
+    "name": "Coral Reef Arch",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"reefGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,150,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,100,100);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 100 450 C 100 300, 412 300, 412 450 L 392 450 C 392 320, 120 320, 120 450 Z\" fill=\"url(#reefGrad)\" />\n  <rect x=\"110\" y=\"430\" width=\"30\" height=\"20\" fill=\"#FFD700\" />\n  <rect x=\"372\" y=\"430\" width=\"30\" height=\"20\" fill=\"#FFD700\" />\n</svg>"
+  },
+  {
+    "id": "underwater_angler_fish",
+    "category": "underwater_world",
+    "name": "Anglerfish (Deep Sea)",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"anglerGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(80,80,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(40,40,60);stop-opacity:1\" />\n    </radialGradient>\n    <radialGradient id=\"lightGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"300\" r=\"80\" fill=\"url(#anglerGrad)\" />\n  <path d=\"M 336 300 L 380 280 L 336 320 Z\" fill=\"url(#anglerGrad)\" />\n  <path d=\"M 256 220 L 256 150\" stroke=\"#333333\" stroke-width=\"2\" />\n  <circle cx=\"256\" cy=\"150\" r=\"10\" fill=\"url(#lightGrad)\" />\n</svg>"
+  },
+  {
+    "id": "underwater_sand_dollar",
+    "category": "underwater_world",
+    "name": "Sand Dollar",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"sandDollarGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,150);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"400\" r=\"60\" fill=\"url(#sandDollarGrad)\" />\n  <path d=\"M 256 340 L 256 460 M 220 370 L 292 430 M 292 370 L 220 430\" stroke=\"#8B4513\" stroke-width=\"3\" />\n</svg>"
+  },
+  {
+    "id": "underwater_submarine_dome",
+    "category": "underwater_world",
+    "name": "Deep Sea Submarine",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"deepSubGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(80,80,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(40,40,60);stop-opacity:1\" />\n    </linearGradient>\n    <radialGradient id=\"windowGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(200,200,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,100,200);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"350\" rx=\"150\" ry=\"50\" fill=\"url(#deepSubGrad)\" />\n  <circle cx=\"300\" cy=\"350\" r=\"20\" fill=\"url(#windowGrad)\" />\n  <rect x=\"350\" y=\"340\" width=\"50\" height=\"20\" fill=\"#FFD700\" />\n</svg>"
+  },
+  {
+    "id": "underwater_seahorse",
+    "category": "underwater_world",
+    "name": "Seahorse",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"seahorseGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(200,100,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(150,50,150);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 256 400 C 200 350, 300 300, 256 200 C 200 150, 300 100, 256 150 L 266 150 L 266 400 Z\" fill=\"url(#seahorseGrad)\" />\n  <circle cx=\"250\" cy=\"150\" r=\"8\" fill=\"#000000\" />\n</svg>"
+  },
+  {
+    "id": "underwater_bubbles_stream",
+    "category": "underwater_world",
+    "name": "Stream of Bubbles",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"bubbleStreamGrad\" cx=\"30%\" cy=\"30%\" r=\"100%\" fx=\"30%\" fy=\"30%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:0.8\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,150,220);stop-opacity:0.2\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"400\" r=\"30\" fill=\"url(#bubbleStreamGrad)\" stroke=\"rgb(150,200,255)\" stroke-width=\"2\" />\n  <circle cx=\"266\" cy=\"320\" r=\"20\" fill=\"url(#bubbleStreamGrad)\" stroke=\"rgb(150,200,255)\" stroke-width=\"2\" />\n  <circle cx=\"246\" cy=\"260\" r=\"15\" fill=\"url(#bubbleStreamGrad)\" stroke=\"rgb(150,200,255)\" stroke-width=\"2\" />\n  <circle cx=\"270\" cy=\"200\" r=\"10\" fill=\"url(#bubbleStreamGrad)\" stroke=\"rgb(150,200,255)\" stroke-width=\"2\" />\n</svg>"
+  },
+  {
+    "id": "underwater_sea_urchin",
+    "category": "underwater_world",
+    "name": "Sea Urchin",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"urchinGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,50,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,20,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"400\" r=\"50\" fill=\"url(#urchinGrad)\" />\n  <line x1=\"256\" y1=\"350\" x2=\"256\" y2=\"450\" stroke=\"#333333\" stroke-width=\"2\" />\n  <line x1=\"220\" y1=\"370\" x2=\"292\" y2=\"430\" stroke=\"#333333\" stroke-width=\"2\" />\n  <line x1=\"220\" y1=\"430\" x2=\"292\" y2=\"370\" stroke=\"#333333\" stroke-width=\"2\" />\n</svg>"
+  },
+  {
+    "id": "underwater_anchor",
+    "category": "underwater_world",
+    "name": "Sunken Anchor",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"anchorGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,150,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,100,100);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"246\" y=\"100\" width=\"20\" height=\"300\" fill=\"url(#anchorGrad)\" />\n  <path d=\"M 256 400 L 150 450 L 362 450 Z\" fill=\"url(#anchorGrad)\" />\n  <circle cx=\"256\" cy=\"100\" r=\"20\" fill=\"url(#anchorGrad)\" />\n</svg>"
+  },
+  {
+    "id": "underwater_kelp_forest",
+    "category": "underwater_world",
+    "name": "Kelp Forest",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"kelpForestGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,200,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,150,50);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 100 450 C 150 300, 50 150, 100 50 L 110 50 C 60 150, 160 300, 110 450 Z\" fill=\"url(#kelpForestGrad)\" />\n  <path d=\"M 200 450 C 250 300, 150 150, 200 50 L 210 50 C 160 150, 260 300, 210 450 Z\" fill=\"url(#kelpForestGrad)\" />\n  <path d=\"M 300 450 C 350 300, 250 150, 300 50 L 310 50 C 260 150, 360 300, 310 450 Z\" fill=\"url(#kelpForestGrad)\" />\n</svg>"
+  },
+  {
+    "id": "underwater_dolphin",
+    "category": "underwater_world",
+    "name": "Dolphin",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"dolphinGrad\" cx=\"40%\" cy=\"60%\" r=\"70%\" fx=\"40%\" fy=\"60%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,180,220);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,130,170);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 100 300 C 150 200, 400 200, 450 300 C 400 350, 150 350, 100 300 Z\" fill=\"url(#dolphinGrad)\" />\n  <path d=\"M 450 300 L 480 280 L 480 320 Z\" fill=\"url(#dolphinGrad)\" />\n  <circle cx=\"120\" cy=\"280\" r=\"5\" fill=\"#000000\" />\n</svg>"
+  },
+  {
+    "id": "underwater_sea_rock",
+    "category": "underwater_world",
+    "name": "Sea Rock",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"seaRockGrad\" cx=\"40%\" cy=\"40%\" r=\"50%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,100,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,50,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 150 450 C 100 350, 400 350, 362 450 Z\" fill=\"url(#seaRockGrad)\" />\n  <circle cx=\"300\" cy=\"400\" r=\"20\" fill=\"#666666\" opacity=\"0.5\" />\n</svg>"
+  },
+  {
+    "id": "underwater_sperm_whale",
+    "category": "underwater_world",
+    "name": "Sperm Whale",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"spermWhaleGrad\" cx=\"40%\" cy=\"60%\" r=\"70%\" fx=\"40%\" fy=\"60%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(180,180,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(130,130,150);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"300\" rx=\"180\" ry=\"80\" fill=\"url(#spermWhaleGrad)\" />\n  <rect x=\"100\" y=\"220\" width=\"50\" height=\"100\" fill=\"url(#spermWhaleGrad)\" />\n  <path d=\"M 436 300 L 480 250 L 436 350 Z\" fill=\"url(#spermWhaleGrad)\" />\n</svg>"
+  },
+  {
+    "id": "underwater_large_clam_shell",
+    "category": "underwater_world",
+    "name": "Large Clam Shell",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"clamGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(220,220,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(180,180,150);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 150 450 Q 256 300, 362 450 Z\" fill=\"url(#clamGrad)\" />\n  <path d=\"M 150 450 Q 256 350, 362 450 Z\" fill=\"url(#clamGrad)\" />\n  <circle cx=\"256\" cy=\"400\" r=\"10\" fill=\"#FF69B4\" />\n</svg>"
+  },
+  {
+    "id": "underwater_sea_sponge",
+    "category": "underwater_world",
+    "name": "Barrel Sea Sponge",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"spongeGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,150,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,100,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 200 450 C 200 300, 312 300, 312 450 Z\" fill=\"url(#spongeGrad)\" />\n  <ellipse cx=\"256\" cy=\"300\" rx=\"56\" ry=\"20\" fill=\"url(#spongeGrad)\" />\n  <circle cx=\"256\" cy=\"350\" r=\"10\" fill=\"#663300\" />\n</svg>"
+  },
+  {
+    "id": "underwater_school_of_fish",
+    "category": "underwater_world",
+    "name": "School of Small Fish",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"smallFishGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,220,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,170,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 100 256 C 110 246, 150 246, 160 256 C 150 266, 110 266, 100 256 Z\" fill=\"url(#smallFishGrad)\" />\n  <path d=\"M 150 200 C 160 190, 200 190, 210 200 C 200 210, 160 210, 150 200 Z\" fill=\"url(#smallFishGrad)\" />\n  <path d=\"M 200 300 C 210 290, 250 290, 260 300 C 250 310, 210 310, 200 300 Z\" fill=\"url(#smallFishGrad)\" />\n  <path d=\"M 250 256 C 260 246, 300 246, 310 256 C 300 266, 260 266, 250 256 Z\" fill=\"url(#smallFishGrad)\" />\n</svg>"
+  },
+  {
+    "id": "underwater_giant_squid",
+    "category": "underwater_world",
+    "name": "Giant Squid",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"squidGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,255,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,200,150);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 200 350 C 200 200, 312 200, 312 350 Z\" fill=\"url(#squidGrad)\" />\n  <path d=\"M 256 350 L 256 450\" stroke=\"url(#squidGrad)\" stroke-width=\"5\" stroke-linecap=\"round\" />\n  <path d=\"M 220 350 L 220 430\" stroke=\"url(#squidGrad)\" stroke-width=\"5\" stroke-linecap=\"round\" />\n  <path d=\"M 292 350 L 292 430\" stroke=\"url(#squidGrad)\" stroke-width=\"5\" stroke-linecap=\"round\" />\n</svg>"
+  },
+  {
+    "id": "underwater_coral_branching",
+    "category": "underwater_world",
+    "name": "Branching Coral",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"branchCoralGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,150,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,100,150);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <rect x=\"240\" y=\"350\" width=\"32\" height=\"100\" fill=\"url(#branchCoralGrad)\" />\n  <rect x=\"272\" y=\"300\" width=\"32\" height=\"50\" fill=\"url(#branchCoralGrad)\" />\n  <rect x=\"208\" y=\"300\" width=\"32\" height=\"50\" fill=\"url(#branchCoralGrad)\" />\n</svg>"
+  },
+  {
+    "id": "underwater_sea_star_blue",
+    "category": "underwater_world",
+    "name": "Blue Sea Star",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"blueStarfishGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,200,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,150,200);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <polygon points=\"256,200 276,250 336,260 286,280 306,330 256,310 206,330 226,280 176,260 236,250\" fill=\"url(#blueStarfishGrad)\" />\n</svg>"
+  },
+  {
+    "id": "underwater_porthole",
+    "category": "underwater_world",
+    "name": "Submarine Porthole",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"portholeGlassGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(200,220,255);stop-opacity:0.8\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(150,180,220);stop-opacity:0.8\" />\n    </radialGradient>\n    <linearGradient id=\"portholeFrameGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,150,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(80,80,80);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"256\" r=\"100\" fill=\"url(#portholeGlassGrad)\" />\n  <circle cx=\"256\" cy=\"256\" r=\"110\" fill=\"none\" stroke=\"url(#portholeFrameGrad)\" stroke-width=\"20\" />\n  <circle cx=\"256\" cy=\"256\" r=\"5\" fill=\"#333333\" />\n</svg>"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "sky_shining_sun",
+    "category": "sky",
+    "name": "Shining Sun",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"sunGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(255,200,0);stop-opacity:1\" />\n    </radialGradient>\n    <linearGradient id=\"rayGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,220,50);stop-opacity:0.8\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(255,180,0);stop-opacity:0.5\" />\n    </linearGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"256\" r=\"100\" fill=\"url(#sunGrad)\" />\n  <path d=\"M 256 10 L 286 180 L 226 180 Z\" fill=\"url(#rayGrad)\" />\n  <path d=\"M 256 502 L 286 332 L 226 332 Z\" fill=\"url(#rayGrad)\" />\n  <path d=\"M 10 256 L 180 286 L 180 226 Z\" fill=\"url(#rayGrad)\" />\n  <path d=\"M 502 256 L 332 286 L 332 226 Z\" fill=\"url(#rayGrad)\" />\n  <path d=\"M 80 80 L 190 200 L 200 190 Z\" fill=\"url(#rayGrad)\" transform=\"rotate(-45, 256, 256)\" />\n  <path d=\"M 432 432 L 322 312 L 312 322 Z\" fill=\"url(#rayGrad)\" transform=\"rotate(-45, 256, 256)\" />\n  <path d=\"M 80 432 L 190 312 L 200 322 Z\" fill=\"url(#rayGrad)\" transform=\"rotate(45, 256, 256)\" />\n  <path d=\"M 432 80 L 322 190 L 312 200 Z\" fill=\"url(#rayGrad)\" transform=\"rotate(45, 256, 256)\" />\n</svg>"
+  },
+  {
+    "id": "sky_cartoon_cloud",
+    "category": "sky",
+    "name": "Fluffy Cloud",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"cloudGrad\" cx=\"60%\" cy=\"40%\" r=\"80%\" fx=\"60%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,220);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 100 300 C 50 300, 50 200, 150 200 C 150 150, 250 150, 250 200 C 350 150, 450 150, 450 250 C 450 350, 350 350, 350 300 C 300 350, 150 350, 100 300 Z\" fill=\"url(#cloudGrad)\" />\n</svg>"
+  },
+  {
+    "id": "sky_crescent_moon",
+    "category": "sky",
+    "name": "Crescent Moon",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"moonGrad\" cx=\"60%\" cy=\"40%\" r=\"70%\" fx=\"60%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,220);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(180,180,150);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 150 256 A 150 150 0 1 0 350 256 A 120 120 0 1 1 150 256 Z\" fill=\"url(#moonGrad)\" />\n</svg>"
+  },
+  {
+    "id": "sky_five_point_star",
+    "category": "sky",
+    "name": "Five-Point Star",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"starGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <polygon points=\"256,50 300,180 440,180 320,280 360,420 256,350 152,420 192,280 72,180 212,180\" fill=\"url(#starGrad)\" />\n</svg>"
+  },
+  {
+    "id": "sky_rainbow_arch",
+    "category": "sky",
+    "name": "Rainbow Arch",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"redGrad\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,0,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,0,0);stop-opacity:0.8\" />\n    </linearGradient>\n    <linearGradient id=\"orangeGrad\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,165,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,120,0);stop-opacity:0.8\" />\n    </linearGradient>\n    <linearGradient id=\"yellowGrad\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,0);stop-opacity:0.8\" />\n    </linearGradient>\n    <linearGradient id=\"greenGrad\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(0,255,0);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(0,200,0);stop-opacity:0.8\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 100 450 A 200 200 0 0 1 412 450 L 412 430 A 180 180 0 0 0 100 430 Z\" fill=\"url(#redGrad)\" />\n  <path d=\"M 120 450 A 180 180 0 0 1 392 450 L 392 430 A 160 160 0 0 0 120 430 Z\" fill=\"url(#orangeGrad)\" />\n  <path d=\"M 140 450 A 160 160 0 0 1 372 450 L 372 430 A 140 140 0 0 0 140 430 Z\" fill=\"url(#yellowGrad)\" />\n  <path d=\"M 160 450 A 140 140 0 0 1 352 450 L 352 430 A 120 120 0 0 0 160 430 Z\" fill=\"url(#greenGrad)\" />\n</svg>"
+  },
+  {
+    "id": "sky_thunderbolt",
+    "category": "sky",
+    "name": "Lightning Thunderbolt",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"lightningGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(255,180,0);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <polygon points=\"256,50 200,250 300,250 240,450 300,300 200,300\" fill=\"url(#lightningGrad)\" />\n</svg>"
+  },
+  {
+    "id": "sky_blue_raindrop",
+    "category": "sky",
+    "name": "Blue Raindrop",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"rainGrad\" cx=\"40%\" cy=\"40%\" r=\"80%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,200,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,100,200);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 256 150 C 206 250, 206 350, 256 450 C 306 350, 306 250, 256 150 Z\" fill=\"url(#rainGrad)\" />\n  <circle cx=\"256\" cy=\"250\" r=\"10\" fill=\"white\" opacity=\"0.5\" />\n</svg>"
+  },
+  {
+    "id": "sky_crystal_snowflake",
+    "category": "sky",
+    "name": "Crystal Snowflake",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"snowGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,255);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 256 100 L 256 412 M 150 256 L 362 256 M 150 150 L 362 362 M 150 362 L 362 150\" stroke=\"url(#snowGrad)\" stroke-width=\"10\" stroke-linecap=\"round\" />\n  <circle cx=\"256\" cy=\"256\" r=\"20\" fill=\"url(#snowGrad)\" />\n</svg>"
+  },
+  {
+    "id": "sky_stylized_wind",
+    "category": "sky",
+    "name": "Stylized Wind Swirl",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"windGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(200,220,255);stop-opacity:0.8\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,150,255);stop-opacity:0.8\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 100 256 C 200 150, 350 150, 412 256 C 350 350, 200 350, 100 256\" stroke=\"url(#windGrad)\" stroke-width=\"15\" fill=\"none\" stroke-linecap=\"round\" />\n  <path d=\"M 150 300 C 200 250, 300 250, 362 300\" stroke=\"url(#windGrad)\" stroke-width=\"10\" fill=\"none\" stroke-linecap=\"round\" />\n</svg>"
+  },
+  {
+    "id": "sky_flying_bird",
+    "category": "sky",
+    "name": "Flying Bird Silhouette",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"birdGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(50,50,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(10,10,10);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 100 300 L 256 200 L 412 300 L 256 250 Z\" fill=\"url(#birdGrad)\" />\n</svg>"
+  },
+  {
+    "id": "sky_storm_cloud",
+    "category": "sky",
+    "name": "Dark Storm Cloud",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"stormCloudGrad\" cx=\"50%\" cy=\"60%\" r=\"70%\" fx=\"50%\" fy=\"60%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(120,120,130);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(70,70,80);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 100 350 C 50 350, 50 250, 150 250 C 150 200, 250 200, 250 250 C 350 200, 450 200, 450 300 C 450 400, 350 400, 350 350 C 300 400, 150 400, 100 350 Z\" fill=\"url(#stormCloudGrad)\" />\n</svg>"
+  },
+  {
+    "id": "sky_comet",
+    "category": "sky",
+    "name": "Comet",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"cometHeadGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(150,200,255);stop-opacity:1\" />\n    </radialGradient>\n    <linearGradient id=\"cometTailGrad\" x1=\"0%\" y1=\"100%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(200,255,255);stop-opacity:0.8\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,200,255);stop-opacity:0\" />\n    </linearGradient>\n  </defs>\n  <circle cx=\"150\" cy=\"200\" r=\"30\" fill=\"url(#cometHeadGrad)\" />\n  <path d=\"M 150 200 L 400 350 L 380 340 L 170 190 Z\" fill=\"url(#cometTailGrad)\" />\n</svg>"
+  },
+  {
+    "id": "sky_full_moon",
+    "category": "sky",
+    "name": "Full Moon",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"fullMoonGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(220,220,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(180,180,150);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"256\" r=\"150\" fill=\"url(#fullMoonGrad)\" />\n  <circle cx=\"200\" cy=\"220\" r=\"20\" fill=\"#B0B0A0\" opacity=\"0.5\" />\n  <circle cx=\"320\" cy=\"280\" r=\"30\" fill=\"#B0B0A0\" opacity=\"0.5\" />\n</svg>"
+  },
+  {
+    "id": "sky_single_raindrop",
+    "category": "sky",
+    "name": "Simple Raindrop",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"dropGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,150,220);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,100,180);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 256 100 L 226 400 L 286 400 Z\" fill=\"url(#dropGrad)\" />\n</svg>"
+  },
+  {
+    "id": "sky_hailstone",
+    "category": "sky",
+    "name": "Hailstone",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"hailGrad\" cx=\"40%\" cy=\"40%\" r=\"70%\" fx=\"40%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(200,220,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(150,170,220);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"256\" r=\"40\" fill=\"url(#hailGrad)\" />\n  <circle cx=\"245\" cy=\"245\" r=\"5\" fill=\"#FFFFFF\" opacity=\"0.8\" />\n</svg>"
+  },
+  {
+    "id": "sky_kite",
+    "category": "sky",
+    "name": "Flying Kite",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"kiteGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,0,0);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <polygon points=\"256,100 356,200 256,300 156,200\" fill=\"url(#kiteGrad)\" />\n  <line x1=\"256\" y1=\"300\" x2=\"256\" y2=\"450\" stroke=\"#333333\" stroke-width=\"2\" />\n</svg>"
+  },
+  {
+    "id": "sky_air_balloon",
+    "category": "sky",
+    "name": "Hot Air Balloon",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"balloonGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,180,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,130,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"250\" rx=\"100\" ry=\"150\" fill=\"url(#balloonGrad)\" />\n  <rect x=\"246\" y=\"380\" width=\"20\" height=\"30\" fill=\"#8B4513\" />\n  <line x1=\"256\" y1=\"380\" x2=\"170\" y2=\"390\" stroke=\"#333333\" stroke-width=\"2\" />\n  <line x1=\"256\" y1=\"380\" x2=\"342\" y2=\"390\" stroke=\"#333333\" stroke-width=\"2\" />\n</svg>"
+  },
+  {
+    "id": "sky_shooting_star",
+    "category": "sky",
+    "name": "Shooting Star",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"shootStarGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,50);stop-opacity:1\" />\n    </radialGradient>\n    <linearGradient id=\"trailGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:0.8\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(255,255,150);stop-opacity:0\" />\n    </linearGradient>\n  </defs>\n  <circle cx=\"100\" cy=\"100\" r=\"20\" fill=\"url(#shootStarGrad)\" />\n  <path d=\"M 100 100 L 400 400 L 380 400 L 80 100 Z\" fill=\"url(#trailGrad)\" />\n</svg>"
+  },
+  {
+    "id": "sky_cumulus_cloud",
+    "category": "sky",
+    "name": "Cumulus Cloud",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"cumulusGrad\" cx=\"60%\" cy=\"40%\" r=\"80%\" fx=\"60%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(240,240,240);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(180,180,190);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 150 300 A 70 70 0 1 1 200 200 A 90 90 0 1 1 310 200 A 70 70 0 1 1 362 300 L 150 300 Z\" fill=\"url(#cumulusGrad)\" />\n</svg>"
+  },
+  {
+    "id": "sky_dark_lightning_cloud",
+    "category": "sky",
+    "name": "Lightning Storm Cloud",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"thunderCloudGrad\" cx=\"50%\" cy=\"60%\" r=\"70%\" fx=\"50%\" fy=\"60%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(90,90,100);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(40,40,50);stop-opacity:1\" />\n    </radialGradient>\n    <linearGradient id=\"boltGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(255,180,0);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 100 350 C 50 350, 50 250, 150 250 C 150 200, 250 200, 250 250 C 350 200, 450 200, 450 300 C 450 400, 350 400, 350 350 C 300 400, 150 400, 100 350 Z\" fill=\"url(#thunderCloudGrad)\" />\n  <polygon points=\"256,300 220,400 280,400 240,450 280,400 220,400\" fill=\"url(#boltGrad)\" />\n</svg>"
+  },
+  {
+    "id": "sky_four_point_star",
+    "category": "sky",
+    "name": "Four-Point Star",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"fourStarGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,50);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <polygon points=\"256,100 306,206 412,256 306,306 256,412 206,306 100,256 206,206\" fill=\"url(#fourStarGrad)\" />\n</svg>"
+  },
+  {
+    "id": "sky_single_wing_plane",
+    "category": "sky",
+    "name": "Airplane",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"planeGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(180,180,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(130,130,150);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 100 256 L 412 256 L 380 230 L 130 230 Z\" fill=\"url(#planeGrad)\" />\n  <rect x=\"200\" y=\"200\" width=\"100\" height=\"10\" fill=\"url(#planeGrad)\" transform=\"rotate(-15, 250, 250)\" />\n  <path d=\"M 412 256 L 430 240 L 430 270 Z\" fill=\"url(#planeGrad)\" />\n</svg>"
+  },
+  {
+    "id": "sky_hot_sun",
+    "category": "sky",
+    "name": "Bright Hot Sun",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"hotSunGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,180);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(255,150,0);stop-opacity:1\" />\n    </radialGradient>\n    <linearGradient id=\"hotRayGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,180,0);stop-opacity:0.8\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(255,100,0);stop-opacity:0.5\" />\n    </linearGradient>\n  </defs>\n  <circle cx=\"256\" cy=\"256\" r=\"120\" fill=\"url(#hotSunGrad)\" />\n  <path d=\"M 256 50 L 276 150 L 236 150 Z\" fill=\"url(#hotRayGrad)\" />\n  <path d=\"M 256 462 L 276 362 L 236 362 Z\" fill=\"url(#hotRayGrad)\" />\n  <path d=\"M 50 256 L 150 276 L 150 236 Z\" fill=\"url(#hotRayGrad)\" />\n  <path d=\"M 462 256 L 362 276 L 362 236 Z\" fill=\"url(#hotRayGrad)\" />\n</svg>"
+  },
+  {
+    "id": "sky_wind_sock",
+    "category": "sky",
+    "name": "Wind Sock",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"sockRedGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,50,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,0,0);stop-opacity:1\" />\n    </linearGradient>\n    <linearGradient id=\"sockWhiteGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,200);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"250\" y=\"300\" width=\"12\" height=\"150\" fill=\"#666666\" />\n  <path d=\"M 262 300 L 400 320 L 400 340 L 262 320 Z\" fill=\"url(#sockRedGrad)\" />\n  <path d=\"M 262 320 L 400 340 L 400 360 L 262 340 Z\" fill=\"url(#sockWhiteGrad)\" />\n  <path d=\"M 262 340 L 400 360 L 400 380 L 262 360 Z\" fill=\"url(#sockRedGrad)\" />\n</svg>"
+  },
+  {
+    "id": "sky_satellite",
+    "category": "sky",
+    "name": "Orbiting Satellite",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"satelliteBodyGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(200,200,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(150,150,200);stop-opacity:1\" />\n    </radialGradient>\n    <linearGradient id=\"solarPanelGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(50,50,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(0,0,100);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"240\" y=\"240\" width=\"32\" height=\"80\" fill=\"url(#satelliteBodyGrad)\" />\n  <rect x=\"100\" y=\"250\" width=\"140\" height=\"60\" fill=\"url(#solarPanelGrad)\" />\n  <rect x=\"272\" y=\"250\" width=\"140\" height=\"60\" fill=\"url(#solarPanelGrad)\" />\n  <circle cx=\"256\" cy=\"240\" r=\"10\" fill=\"#888888\" />\n</svg>"
+  },
+  {
+    "id": "sky_moon_and_stars",
+    "category": "sky",
+    "name": "Moon and Stars",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"nightMoonGrad\" cx=\"60%\" cy=\"40%\" r=\"70%\" fx=\"60%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,200);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(180,180,150);stop-opacity:1\" />\n    </radialGradient>\n    <radialGradient id=\"nightStarGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,220);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(220,220,100);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 150 256 A 150 150 0 1 0 350 256 A 120 120 0 1 1 150 256 Z\" fill=\"url(#nightMoonGrad)\" />\n  <polygon points=\"400,100 410,120 430,120 415,135 420,155 400,140 380,155 385,135 370,120 390,120\" fill=\"url(#nightStarGrad)\" />\n  <polygon points=\"100,400 110,420 130,420 115,435 120,455 100,440 80,455 85,435 70,420 90,420\" fill=\"url(#nightStarGrad)\" />\n</svg>"
+  },
+  {
+    "id": "sky_cirrus_cloud",
+    "category": "sky",
+    "name": "Wispy Cirrus Cloud",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"cirrusGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(230,230,255);stop-opacity:0.7\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(180,180,220);stop-opacity:0.7\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 100 256 C 150 200, 350 200, 412 256\" stroke=\"url(#cirrusGrad)\" stroke-width=\"15\" fill=\"none\" stroke-linecap=\"round\" />\n  <path d=\"M 150 280 C 200 230, 300 230, 362 280\" stroke=\"url(#cirrusGrad)\" stroke-width=\"10\" fill=\"none\" stroke-linecap=\"round\" />\n</svg>"
+  },
+  {
+    "id": "sky_meteor_shower",
+    "category": "sky",
+    "name": "Meteor Shower Trail",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"meteorGrad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,100);stop-opacity:0.8\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,0,0);stop-opacity:0\" />\n    </linearGradient>\n    <linearGradient id=\"meteorGrad2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,100);stop-opacity:0.8\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,0);stop-opacity:0\" />\n    </linearGradient>\n  </defs>\n  <circle cx=\"150\" cy=\"150\" r=\"10\" fill=\"#FF6666\" />\n  <path d=\"M 150 150 L 300 300\" stroke=\"url(#meteorGrad1)\" stroke-width=\"5\" stroke-linecap=\"round\" />\n  <circle cx=\"180\" cy=\"180\" r=\"8\" fill=\"#FFFF66\" />\n  <path d=\"M 180 180 L 330 330\" stroke=\"url(#meteorGrad2)\" stroke-width=\"4\" stroke-linecap=\"round\" />\n</svg>"
+  },
+  {
+    "id": "sky_helicopter",
+    "category": "sky",
+    "name": "Helicopter",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"heliGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(150,200,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(100,150,100);stop-opacity:1\" />\n    </linearGradient>\n  </defs>\n  <ellipse cx=\"256\" cy=\"350\" rx=\"80\" ry=\"30\" fill=\"url(#heliGrad)\" />\n  <rect x=\"250\" y=\"320\" width=\"12\" height=\"30\" fill=\"#666666\" />\n  <rect x=\"150\" y=\"310\" width=\"212\" height=\"5\" fill=\"#333333\" />\n  <rect x=\"200\" y=\"310\" width=\"112\" height=\"5\" fill=\"#333333\" transform=\"rotate(90, 256, 312)\" />\n</svg>"
+  },
+  {
+    "id": "sky_sun_behind_cloud",
+    "category": "sky",
+    "name": "Sun Behind Cloud",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"sunCloudGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,150);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(255,200,50);stop-opacity:1\" />\n    </radialGradient>\n    <radialGradient id=\"partCloudGrad\" cx=\"60%\" cy=\"40%\" r=\"80%\" fx=\"60%\" fy=\"40%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,255,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,200,220);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"200\" cy=\"200\" r=\"80\" fill=\"url(#sunCloudGrad)\" />\n  <path d=\"M 180 280 C 130 280, 130 180, 230 180 C 230 130, 330 130, 330 180 C 330 280, 230 280, 180 280 Z\" fill=\"url(#partCloudGrad)\" />\n</svg>"
+  },
+  {
+    "id": "sky_red_sunset",
+    "category": "sky",
+    "name": "Sunset/Sunrise",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"sunsetGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(255,100,50);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(200,50,0);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 100 450 A 150 150 0 0 1 412 450 L 412 440 A 140 140 0 0 0 100 440 Z\" fill=\"url(#sunsetGrad)\" />\n  <path d=\"M 120 440 A 140 140 0 0 1 392 440 L 392 430 A 130 130 0 0 0 120 430 Z\" fill=\"url(#sunsetGrad)\" opacity=\"0.8\" />\n  <path d=\"M 140 430 A 130 130 0 0 1 372 430 L 372 420 A 120 120 0 0 0 140 420 Z\" fill=\"url(#sunsetGrad)\" opacity=\"0.6\" />\n</svg>"
+  },
+  {
+    "id": "sky_paratrooper",
+    "category": "sky",
+    "name": "Paratrooper",
+    "svg_content": "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"chuteGrad\" cx=\"50%\" cy=\"50%\" r=\"50%\" fx=\"50%\" fy=\"50%\">\n      <stop offset=\"0%\" style=\"stop-color:rgb(100,100,255);stop-opacity:1\" />\n      <stop offset=\"100%\" style=\"stop-color:rgb(50,50,200);stop-opacity:1\" />\n    </radialGradient>\n  </defs>\n  <path d=\"M 156 200 A 100 50 0 1 0 356 200 Z\" fill=\"url(#chuteGrad)\" />\n  <rect x=\"250\" y=\"200\" width=\"12\" height=\"80\" fill=\"#333333\" />\n  <circle cx=\"256\" cy=\"300\" r=\"15\" fill=\"#8B4513\" />\n</svg>"
+  }
+]
