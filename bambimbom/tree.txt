@@ -1,0 +1,906 @@
+===============================================================================
+                              SVG ASSETS COLLECTION
+                         Complete Asset ID Tree Structure
+===============================================================================
+
+Total Files: 26 JSON files
+Total Assets: 700+ individual SVG icons
+Created: 2025-11-26
+Format: ASCII Tree Structure
+
+===============================================================================
+                            1. ACADEMY_NUMBERS (10 items)
+===============================================================================
+academy_numbers
+├── academy_numbers_0
+├── academy_numbers_1
+├── academy_numbers_2
+├── academy_numbers_3
+├── academy_numbers_4
+├── academy_numbers_5
+├── academy_numbers_6
+├── academy_numbers_7
+├── academy_numbers_8
+└── academy_numbers_9
+
+===============================================================================
+                            2. ALPHABET (26 items)
+===============================================================================
+alphabet
+├── alphabet_letter_a
+├── alphabet_letter_b
+├── alphabet_letter_c
+├── alphabet_letter_d
+├── alphabet_letter_e
+├── alphabet_letter_f
+├── alphabet_letter_g
+├── alphabet_letter_h
+├── alphabet_letter_i
+├── alphabet_letter_j
+├── alphabet_letter_k
+├── alphabet_letter_l
+├── alphabet_letter_m
+├── alphabet_letter_n
+├── alphabet_letter_o
+├── alphabet_letter_p
+├── alphabet_letter_q
+├── alphabet_letter_r
+├── alphabet_letter_s
+├── alphabet_letter_t
+├── alphabet_letter_u
+├── alphabet_letter_v
+├── alphabet_letter_w
+├── alphabet_letter_x
+├── alphabet_letter_y
+└── alphabet_letter_z
+
+===============================================================================
+                            3. BAM (40 items)
+===============================================================================
+bam
+├── bam_head_main
+├── bam_ear_left
+├── bam_ear_right
+├── bam_body
+├── bam_arm_upper_left
+├── bam_arm_lower_left
+├── bam_arm_upper_right
+├── bam_arm_lower_right
+├── bam_leg_left_simple
+├── bam_leg_right_simple
+├── bam_mouth_happy_open
+├── bam_eye_closed_blink
+├── bam_nose_whiskers
+├── bam_hand_waving
+├── bam_foot_tip_toe
+├── bam_cheek_blush
+├── bam_chest_fluff
+├── bam_tail_fluffy
+├── bam_leg_upper_left
+├── bam_leg_upper_right
+├── bam_mouth_surprised
+├── bam_eye_excited_wide
+├── bam_hand_pointing
+├── bam_foot_flat
+├── bam_eyebrow_frown_left
+├── bam_eyebrow_frown_right
+├── bam_mouth_neutral_closed
+├── bam_hand_grasping_left
+├── bam_hand_grasping_right
+├── bam_foot_heel
+├── bam_eyebrow_raise_left
+├── bam_eyebrow_raise_right
+├── bam_mouth_small_open
+├── bam_hand_neutral_left
+├── bam_hand_neutral_right
+├── bam_foot_ball
+├── bam_eyebrow_worry_left
+├── bam_eyebrow_worry_right
+├── bam_mouth_o_shape
+├── bam_hand_fist_left
+├── bam_hand_fist_right
+├── bam_foot_standing
+└── bam_eyebrow_angry_both
+
+===============================================================================
+                            4. BASIC_TOOLS (21 items)
+===============================================================================
+basic_tools
+├── tool_hammer
+├── tool_screwdriver
+├── tool_wrench
+├── tool_saw
+├── tool_measuring_tape
+├── tool_toolbox
+├── tool_paintbrush
+├── tool_glove_work
+├── tool_nut_bolt
+├── tool_pliers
+├── tool_level
+├── tool_drill_hand
+├── tool_chisel
+├── tool_sandpaper
+├── tool_ladder
+├── tool_bucket
+├── tool_safety_glasses
+├── tool_work_vise
+├── tool_clamp
+├── tool_screwdriver_Phillips
+└── tool_screwdriver_flathead
+
+===============================================================================
+                            5. BIM (40 items)
+===============================================================================
+bim
+├── bim_head_main
+├── bim_ear_left
+├── bim_ear_right
+├── bim_body
+├── bim_arm_upper_left
+├── bim_arm_lower_left
+├── bim_arm_upper_right
+├── bim_arm_lower_right
+├── bim_leg_left_simple
+├── bim_leg_right_simple
+├── bim_mouth_happy_open
+├── bim_eye_closed_blink
+├── bim_nose_whiskers
+├── bim_hand_waving
+├── bim_foot_tip_toe
+├── bim_cheek_blush
+├── bim_chest_fluff
+├── bim_tail_fluffy
+├── bim_leg_upper_left
+├── bim_leg_upper_right
+├── bim_mouth_surprised
+├── bim_eye_excited_wide
+├── bim_hand_pointing
+├── bim_foot_flat
+├── bim_eyebrow_frown_left
+├── bim_eyebrow_frown_right
+├── bim_mouth_neutral_closed
+├── bim_hand_grasping_left
+├── bim_hand_grasping_right
+├── bim_foot_heel
+├── bim_eyebrow_raise_left
+├── bim_eyebrow_raise_right
+├── bim_mouth_small_open
+├── bim_hand_neutral_left
+├── bim_hand_neutral_right
+├── bim_foot_ball
+├── bim_eyebrow_worry_left
+├── bim_eyebrow_worry_right
+├── bim_mouth_o_shape
+├── bim_hand_fist_left
+├── bim_hand_fist_right
+├── bim_foot_standing
+└── bim_eyebrow_angry_both
+
+===============================================================================
+                            6. BOM (40 items)
+===============================================================================
+bom
+├── bom_head_main
+├── bom_ear_left
+├── bom_ear_right
+├── bom_body
+├── bom_arm_upper_left
+├── bom_arm_lower_left
+├── bom_arm_upper_right
+├── bom_arm_lower_right
+├── bom_leg_left_simple
+├── bom_leg_right_simple
+├── bom_mouth_happy_open
+├── bom_eye_closed_blink
+├── bom_nose_whiskers
+├── bom_hand_waving
+├── bom_foot_tip_toe
+├── bom_cheek_blush
+├── bom_chest_fluff
+├── bom_tail_fluffy
+├── bom_leg_upper_left
+├── bom_leg_upper_right
+├── bom_mouth_surprised
+├── bom_eye_excited_wide
+├── bom_hand_pointing
+├── bom_foot_flat
+├── bom_eyebrow_frown_left
+├── bom_eyebrow_frown_right
+├── bom_mouth_neutral_closed
+├── bom_hand_grasping_left
+├── bom_hand_grasping_right
+├── bom_foot_heel
+├── bom_eyebrow_raise_left
+├── bom_eyebrow_raise_right
+├── bom_mouth_small_open
+├── bom_hand_neutral_left
+├── bom_hand_neutral_right
+├── bom_foot_ball
+├── bom_eyebrow_worry_left
+├── bom_eyebrow_worry_right
+├── bom_mouth_o_shape
+├── bom_hand_fist_left
+├── bom_hand_fist_right
+├── bom_foot_standing
+└── bom_eyebrow_angry_both
+
+===============================================================================
+                            7. CITY (66 items)
+===============================================================================
+city
+├── city_modern_skyscraper
+├── city_classic_brownstone
+├── city_police_car
+├── city_yellow_taxi
+├── city_traffic_light
+├── city_street_lamp
+├── city_fire_hydrant
+├── city_bus_stop
+├── city_news_stand
+├── city_post_box
+├── city_hot_dog_stand
+├── city_trash_can
+├── city_subway_entrance
+├── city_potted_tree
+├── city_bench
+├── city_newspaper_dispenser
+├── city_street_sign
+├── city_parking_meter
+├── city_food_cart
+├── city_mailbox_cluster
+├── city_manhole_cover
+├── city_security_camera
+├── city_awning
+├── city_billboard
+├── city_water_tower
+├── city_parking_space
+├── city_telephone_booth
+├── city_dumster
+├── city_road_barrier
+├── city_bike_rack
+├── city_scooter
+├── city_electric_charging_station
+├── city_fire_escape
+├── city_brick_wall
+├── city_alley
+├── city_graffiti_wall
+├── city_street_art_mural
+├── city_sidewalk_cafe
+├── city_outdoor_seating
+├── city_bus_shelter
+├── city_taxi_stand
+├── city_loading_dock
+├── city_delivery_truck
+├── city_street_vendor
+├── city_fruit_stand
+├── city_ice_cream_cart
+├── city_horse_carriage
+├── city_tourist_kiosk
+├── city_bicycle_rental
+├── city_public_restroom
+├── city_atm
+├── city_vending_machine
+├── city_recycling_bin
+├── city_public_phone
+├── city_pedestrian_crossing
+├── city_bicycle_lane
+├── city_no_parking_sign
+├── city_speed_bump
+├── city_street_cleaning_machine
+├── city_construction_barrier
+├── city_road_work_ahead
+├── city_detour_sign
+├── city_yield_sign
+├── city_stop_sign
+├── city_parking_garage
+└── city_metro_station
+
+===============================================================================
+                            8. COLORS (10 items)
+===============================================================================
+colors
+├── colors_black
+├── colors_blue
+├── colors_brown
+├── colors_green
+├── colors_grey
+├── colors_orange
+├── colors_pink
+├── colors_purple
+├── colors_red
+├── colors_white
+└── colors_yellow
+
+===============================================================================
+                            9. DOMESTIC_PETS_AND_FOREST (15 items)
+===============================================================================
+domestic_pets_and_forest
+├── domestic_pets_and_forest_cat
+├── domestic_pets_and_forest_chicken
+├── domestic_pets_and_forest_cow
+├── domestic_pets_and_forest_deer
+├── domestic_pets_and_forest_dog
+├── domestic_pets_and_forest_donkey
+├── domestic_pets_and_forest_fox
+├── domestic_pets_and_forest_goat
+├── domestic_pets_and_forest_hare
+├── domestic_pets_and_forest_horse
+├── domestic_pets_and_forest_mouse
+├── domestic_pets_and_forest_pig
+├── domestic_pets_and_forest_rabbit
+├── domestic_pets_and_forest_sheep
+└── domestic_pets_and_forest_wolf
+
+===============================================================================
+                            10. FARM_AND_AGRICULTURE (33 items)
+===============================================================================
+farm_and_agriculture
+├── farm_and_agriculture_tractor
+├── farm_and_agriculture_plow
+├── farm_and_agriculture_hay
+├── farm_and_agriculture_fence
+├── farm_and_agriculture_barn
+├── farm_and_agriculture_windmill
+├── farm_and_agriculture_greenhouse
+├── farm_and_agriculture_silo
+├── farm_and_agriculture_scarecrow
+├── farm_and_agriculture_pitchfork
+├── farm_and_agriculture_wheelbarrow
+├── farm_and_agriculture_shovel
+├── farm_and_agriculture_rake
+├── farm_and_agriculture_sickle
+├── farm_and_agriculture_bale
+├── farm_and_agriculture_irrigation
+├── farm_and_agriculture_harvester
+├── farm_and_agriculture_combiner
+├── farm_and_agriculture_seed_drill
+├── farm_and_agriculture_cultivator
+├── farm_and_agriculture_sprayer
+├── farm_and_agriculture_manure_spreader
+├── farm_and_agriculture_front_loader
+├── farm_and_agriculture_backhoe
+├── farm_and_agriculture_excavator
+├── farm_and_agriculture_bulldozer
+├── farm_and_agriculture_dump_truck
+├── farm_and_agriculture_trailer
+├── farm_and_agriculture_pickup_truck
+├── farm_and_agriculture_atv
+├── farm_and_agriculture_gator
+├── farm_and_agriculture_tractor_cart
+├── farm_and_agriculture_hay_cart
+└── farm_and_agriculture_wagon
+
+===============================================================================
+                            11. FARM_AND_AQUATIC_ANIMALS (15 items)
+===============================================================================
+farm_and_aquatic_animals
+├── farm_and_aquatic_animals_duck
+├── farm_and_aquatic_animals_goose
+├── farm_and_aquatic_animals_swan
+├── farm_and_aquatic_animals_fish
+├── farm_and_aquatic_animals_frog
+├── farm_and_aquatic_animals_tadpole
+├── farm_and_aquatic_animals_turtle
+├── farm_and_aquatic_animals_crocodile
+├── farm_and_aquatic_animals_alligator
+├── farm_and_aquatic_animals_fish_pond
+├── farm_and_aquatic_animals_water_lily
+├── farm_and_aquatic_animals_reed
+├── farm_and_aquatic_animals_cattail
+├── farm_and_aquatic_animals_water_grass
+└── farm_and_aquatic_animals_river
+
+===============================================================================
+                            12. FRUITS (9 items)
+===============================================================================
+fruits
+├── fruit_apple_red
+├── fruit_banana_single
+├── fruit_strawberry
+├── fruit_grape_green_bunch
+├── fruit_orange_whole
+├── fruit_pineapple_whole
+├── fruit_kiwi_slice
+├── fruit_watermelon_slice
+└── fruit_mango_whole
+
+===============================================================================
+                            13. HOUSEHOLD_INTERIOR (10 items) [NEW]
+===============================================================================
+household_interior
+├── interior_living_room_sofa
+├── interior_window_with_curtains
+├── interior_wooden_shelf
+├── interior_area_rug
+├── interior_wooden_door
+├── interior_small_table
+├── interior_television
+├── interior_decorative_plant
+├── interior_picture_frame
+└── interior_floor_lamp
+
+===============================================================================
+                            14. HOUSEHOLD_OBJECTS (18 items)
+===============================================================================
+household_objects
+├── house_teddy_bear
+├── house_building_block
+├── house_lamp
+├── house_book
+├── house_toy_robot
+├── house_alarm_clock
+├── house_ball_red
+├── house_slippers
+├── house_toothbrush
+├── house_backpack
+├── house_toy_car
+├── house_crayon_box
+├── house_coloring_book
+├── house_puzzle_piece
+├── house_stuffed_animal
+├── house_doll
+├── house_toy_train
+└── house_kite
+
+===============================================================================
+                            15. JUNGLE_ELEMENTS (25 items)
+===============================================================================
+jungle_elements
+├── jungle_palm_tree_element
+├── jungle_large_fern_element
+├── jungle_banana_bunch_element
+├── jungle_vine_element
+├── jungle_waterfall_element
+├── jungle_tribal_mask_element
+├── jungle_hut_element
+├── jungle_bamboo_stalks_element
+├── jungle_tropical_flower_element
+├── jungle_ancient_ruins_element
+├── jungle_hanging_liana_element
+├── jungle_lush_foliage_element
+├── jungle_water_lily_element
+├── jungle_swamp_log_element
+├── jungle_canopy_vines_element
+├── jungle_rock_formation_element
+├── jungle_tropical_leaf_element
+├── jungle_mud_puddle_element
+├── jungle_tree_stump_element
+├── jungle_exotic_butterfly_element
+├── jungle_parrot_element
+├── jungle_monkey_element
+├── jungle_toucan_element
+├── jungle_jaguar_element
+└── jungle_python_element
+
+===============================================================================
+                            16. KITCHEN_AND_TABLEWARE (12 items) [NEW]
+===============================================================================
+kitchen_and_tableware
+├── kitchen_frying_pan
+├── kitchen_cooking_pot
+├── kitchen_wooden_spoon
+├── tableware_plate_dinner
+├── tableware_mug_coffee
+├── tableware_fork
+├── tableware_knife
+├── tableware_spoon
+├── kitchen_blender
+├── kitchen_whisk
+├── kitchen_rolling_pin
+└── tableware_bowl_cereal
+
+===============================================================================
+                            17. MUSIC_INSTRUMENTS (58 items)
+===============================================================================
+music_instruments
+├── music_piano_keyboard
+├── music_guitar_acoustic
+├── music_drum_snare
+├── music_trumpet
+├── music_flute_recorder
+├── music_maraca
+├── music_xylophone
+├── music_microphone
+├── music_violin
+├── music_music_note
+├── music_cello
+├── music_saxophone
+├── music_electric_guitar
+├── music_drum_bass
+├── music_cymbals
+├── music_accordion
+├── music_harmonica
+├── music_ukulele
+├── music_pan_flute
+├── music_castanets
+├── music_tambourine
+├── music_triangle
+├── music_gong
+├── music_harp
+├── music_keyboard_synth
+├── music_tuba
+├── music_clarinet
+├── music_bongos
+├── music_electric_bass
+├── music_xylophone_mallet
+├── music_maraca_pair
+├── music_mouth_organ
+├── music_banjo
+├── music_hand_drum
+├── music_conga
+├── music_xylophone_rainbow
+├── music_keyboard_midi
+├── music_drum_sticks
+├── music_acoustic_bass
+├── music_oboe
+├── music_french_horn
+├── music_baritone
+├── music_bassoon
+├── music_cowbell
+├── music_chimes
+├── music_ocarina
+├── music_bagpipes
+├── music_mandolin
+├── music_double_bass
+├── music_bugle
+├── music_didgeridoo
+├── music_harpsichord
+├── music_recorder
+├── music_trombone
+├── music_sitar
+├── music_tuning_fork
+└── music_metronome
+
+===============================================================================
+                            18. NATURE (41 items)
+===============================================================================
+nature
+├── nature_oak_tree
+├── nature_conifer_tree
+├── nature_round_bush
+├── nature_amanita_mushroom
+├── nature_tulip_flower
+├── nature_smooth_rock
+├── nature_patch_grass
+├── nature_fallen_log
+├── nature_single_leaf
+├── nature_ivy_vine
+├── nature_acorn
+├── nature_sunflower
+├── nature_small_pebble
+├── nature_clover
+├── nature_water_lily
+├── nature_cattail
+├── nature_cactus
+├── nature_fern
+├── nature_bamboo
+├── nature_moss_patch
+├── nature_dry_branch
+├── nature_thistle
+├── nature_lilac_bush
+├── nature_driftwood
+├── nature_pine_cone
+├── nature_fern_frond
+├── nature_poppy_flower
+├── nature_reeds_bundle
+├── nature_broken_stump
+├── nature_small_flower_patch
+├── nature_hanging_moss
+├── nature_tall_grass_clump
+├── nature_smooth_boulder
+├── nature_mushroom_cluster
+├── nature_twisty_vine
+├── nature_wildflower_bush
+├── nature_creeper_plant
+├── nature_seaweed_kelp
+└── nature_herbs_bundle
+
+===============================================================================
+                            19. NICHE_AQUATIC_ANIMALS (12 items) [NEW]
+===============================================================================
+niche_aquatic_animals
+├── niche_sloth
+├── niche_wombat
+├── niche_jellyfish_translucent
+├── niche_eel_electric
+├── niche_pufferfish
+├── niche_armadillo
+├── niche_axolotl
+├── niche_manatee
+├── niche_sea_otter
+├── niche_narwhal
+├── niche_dolphin
+└── niche_seal
+
+===============================================================================
+                            20. OPPOSITES_CONCEPTS (9 items)
+===============================================================================
+opposites_concepts
+├── opposites_big_small
+├── opposites_hot_cold
+├── opposites_up_down
+├── opposites_empty_full
+├── opposites_open_closed
+├── opposites_rough_smooth
+├── opposites_fast_slow
+├── opposites_thin_thick
+└── opposites_night_day
+
+===============================================================================
+                            21. SKY (39 items)
+===============================================================================
+sky
+├── sky_shining_sun
+├── sky_cartoon_cloud
+├── sky_crescent_moon
+├── sky_five_point_star
+├── sky_rainbow_arch
+├── sky_thunderbolt
+├── sky_blue_raindrop
+├── sky_crystal_snowflake
+├── sky_stylized_wind
+├── sky_flying_bird
+├── sky_storm_cloud
+├── sky_comet
+├── sky_full_moon
+├── sky_single_raindrop
+├── sky_hailstone
+├── sky_kite
+├── sky_air_balloon
+├── sky_shooting_star
+├── sky_cumulus_cloud
+├── sky_dark_lightning_cloud
+├── sky_four_point_star
+├── sky_swing_plane
+├── sky_hot_sun
+├── sky_wind_sock
+├── sky_satellite
+├── sky_moon_and_stars
+├── sky_cirrus_cloud
+├── sky_meteor_shower
+├── sky_helicopter
+├── sky_sun_behind_cloud
+├── sky_red_sunset
+├── sky_paratrooper
+├── sky_fighter_jet
+├── weather_vane
+├── solar_panel
+├── wind_turbine
+└── aurora_borealis
+
+===============================================================================
+                            22. SPACE (38 items)
+===============================================================================
+space
+├── space_gas_giant_planet
+├── space_planet_earth
+├── space_planet_mars
+├── space_classic_rocket
+├── space_flying_saucer_ufo
+├── space_astronaut_helmet
+├── space_comet_ice
+├── space_black_hole_swirl
+├── space_solar_satellite
+├── space_star_cluster
+├── space_ringed_planet
+├── space_small_star
+├── space_shuttle
+├── space_telescope
+├── space_asteroid
+├── space_milky_way_swirl
+├── space_space_station
+├── space_red_supergiant
+├── space_lunar_lander
+├── space_nebula_cloud
+├── space_martian_rover
+├── space_nuclear_star
+├── space_rocket_flame
+├── space_red_dwarf_star
+├── space_moon_lunar
+├── space_space_probe
+├── space_blue_supergiant
+├── space_shooting_asteroid
+├── space_galaxy_spiral
+├── space_planet_jupiter
+├── space_space_capsule
+├── space_solar_flare
+├── space_white_dwarf
+├── space_astronaut_full
+├── space_planet_mercury
+├── space_planet_neptune
+├── space_planet_uranus
+├── space_planet_venus
+├── space_planet_saturn
+└── space_asteroid_belt
+
+===============================================================================
+                            23. THINGS_THAT_GO (16 items)
+===============================================================================
+things_that_go
+├── things_car_sedan
+├── things_truck_pickup
+├── things_motorcycle_cruiser
+├── things_airplane_prop
+├── things_helicopter_main
+├── things_train_steam
+├── things_boat_fishing
+├── things_bicycle_mountain
+├── things_skateboard_trick
+├── things_scooter_electric
+├── things_bus_school
+├── things_fire_truck
+├── things_ambulance
+├── things_police_car
+├── things_tractor_farm
+└── things_bulldozer_construction
+
+===============================================================================
+                            24. UNDERWATER_WORLD (15 items)
+===============================================================================
+underwater_world
+├── underwater_fish_tropical
+├── underwater_seahorse_elegant
+├── underwater_starfish_orange
+├── underwater_crab_rocky
+├── underwater_jellyfish_glowing
+├── underwater_dolphin_leaping
+├── underwater_shark_oceanic
+├── underwater_whale_baleen
+├── underwater_turtle_sea
+├── underwater_octopus_cave
+├── underwater_lobster_colorful
+├── underwater_shrimp_tiny
+├── underwater_coral_reef
+├── underwater_seaweed_forest
+└── underwater_submarine_explorer
+
+===============================================================================
+                            25. VEGETABLES (82 items)
+===============================================================================
+vegetables
+├── vegetable_broccoli
+├── vegetable_carrot_root
+├── vegetable_tomato
+├── vegetable_potato
+├── vegetable_lettuce
+├── vegetable_corn_cob
+├── vegetable_onion
+├── vegetable_pepper_bell
+├── vegetable_mushroom_portobello
+├── vegetable_cucumber_slice
+├── vegetable_cabbage
+├── vegetable_onion_red
+├── vegetable_squash_butternut
+├── vegetable_ginger_root
+├── vegetable_garlic_bulb
+├── vegetable_turnip
+├── vegetable_radish
+├── vegetable_parsnip
+├── vegetable_leek
+├── vegetable_celery
+├── vegetable_asparagus
+├── vegetable_fennel
+├── vegetable_artichoke
+├── vegetable_okra
+├── vegetable_rhubarb_root
+├── vegetable_truffle
+├── vegetable_wasabi
+├── vegetable_daikon_radish
+├── vegetable_kohlrabi
+├── vegetable_rutabaga
+├── vegetable_parsnip_halved
+├── vegetable_celeriac
+├── vegetable_swede
+├── vegetable_pumpkin
+├── vegetable_squash_acorn
+├── vegetable_spaghetti_squash
+├── vegetable_capsicum_red
+├── vegetable_capsicum_yellow
+├── vegetable_capsicum_green
+├── vegetable_brussels_sprout
+├── vegetable_cauliflower
+├── vegetable_kale
+├── vegetable_spinach
+├── vegetable_beetroot
+├── vegetable_sweet_potato
+├── vegetable_yam
+├── vegetable_cucumber_whole
+├── vegetable_courgette
+├── vegetable_jalapeno
+├── vegetable_habanero
+├── vegetable_poblano
+├── vegetable_serrano
+├── vegetable_anaheim
+├── vegetable_bell_pepper_green
+├── vegetable_bell_pepper_red
+├── vegetable_bell_pepper_yellow
+├── vegetable_bell_pepper_orange
+├── vegetable_chili_pepper_red
+├── vegetable_chili_pepper_green
+├── vegetable_cayenne_pepper
+├── vegetable_paprika
+├── vegetable_turmeric
+├── vegetable_cinnamon
+├── vegetable_nutmeg
+├── vegetable_clove
+├── vegetable_star_anise
+├── vegetable_cardamom
+├── vegetable_galangal
+├── vegetable_lemon_grass
+├── vegetable_coriander_seed
+├── vegetable_fennel_seed
+├── vegetable_mustard_seed
+├── vegetable_black_pepper
+├── vegetable_white_pepper
+├── vegetable_pink_peppercorn
+├── vegetable_green_peppercorn
+├── vegetable_sichuan_pepper
+├── vegetable_allspice
+└── vegetable_nigella_seed
+
+===============================================================================
+                            26. WILD_SAVANNA_ANIMALS (15 items)
+===============================================================================
+wild_savanna_animals
+├── wild_savanna_lion_male
+├── wild_savanna_elephant_african
+├── wild_savanna_giraffe_masa
+├── wild_savanna_zebra_plains
+├── wild_savanna_rhinoceros_black
+├── wild_savanna_hippopotamus
+├── wild_savanna_cheetah_spotted
+├── wild_savanna_leopard_spotted
+├── wild_savanna_hyena_spotted
+├── wild_savanna_meerkat_suricate
+├── wild_savanna_warthog_african
+├── wild_savanna_ostrich_african
+├── wild_savanna_gazelle_thomsons
+├── wild_savanna_wildebeest
+└── wild_savanna_antelope_impala
+
+===============================================================================
+                               SUMMARY STATISTICS
+===============================================================================
+Total Categories: 26 JSON files
+Total Individual Assets: 700+ SVG icons
+
+Categories by Size (Largest to Smallest):
+1. vegetables: 82 items
+2. music_instruments: 58 items
+3. city: 66 items
+4. farm_and_agriculture: 33 items
+5. jungle_elements: 25 items
+6. nature: 41 items
+7. space: 38 items
+8. sky: 39 items
+9. household_objects: 18 items
+10. basic_tools: 21 items
+11. opposites_concepts: 9 items
+12. farm_and_aquatic_animals: 15 items
+13. fruits: 9 items
+14. wild_savanna_animals: 15 items
+15. things_that_go: 16 items
+16. underwater_world: 15 items
+17. domestic_pets_and_forest: 15 items
+18. alphabet: 26 items
+19. academy_numbers: 10 items
+20. colors: 10 items
+21. household_interior: 10 items [NEW]
+22. kitchen_and_tableware: 12 items [NEW]
+23. niche_aquatic_animals: 12 items [NEW]
+24. bim: 3 items
+25. bom: 1 item
+26. bam: 1 item
+
+File Creation: 2025-11-26
+Format: ASCII Tree Structure
+Purpose: Complete Asset ID Reference for AI Processing
+
+All assets include:
+- Unique ID for programmatic access
+- Category classification for grouping
+- Human-readable name for display
+- Complete SVG content with gradients and styling
+- 512x512 viewBox for consistent sizing
+
+===============================================================================
